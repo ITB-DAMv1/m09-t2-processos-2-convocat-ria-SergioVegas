@@ -231,9 +231,7 @@ Procés: System (PID: 4)
 	Fil ID: 16128
 	Fil ID: 30392
 	Fil ID: 28892
-	Fil ID: 22832
 	Fil ID: 24296
-	Fil ID: 14304
 	Fil ID: 18420
 	Fil ID: 12232
 	Fil ID: 12504
@@ -246,24 +244,16 @@ Procés: System (PID: 4)
 	Fil ID: 29500
 	Fil ID: 5524
 	Fil ID: 3560
-	Fil ID: 2684
-	Fil ID: 28084
 	Fil ID: 19784
-	Fil ID: 27108
-	Fil ID: 1680
-	Fil ID: 30040
-	Fil ID: 10932
-	Fil ID: 29220
-	Fil ID: 27504
-	Fil ID: 21004
-	Fil ID: 1108
-	Fil ID: 14916
-	Fil ID: 21360
-	Fil ID: 17380
-	Fil ID: 5444
-	Fil ID: 33452
-	Fil ID: 32004
-	Fil ID: 9836
+	Fil ID: 25212
+	Fil ID: 37528
+	Fil ID: 33816
+	Fil ID: 33524
+	Fil ID: 24208
+	Fil ID: 16356
+	Fil ID: 21688
+	Fil ID: 28984
+	Fil ID: 32012
 Procés: Registry (PID: 148)
 	Fil ID: 152
 	Fil ID: 628
@@ -296,12 +286,11 @@ Procés: services (PID: 928)
 	Fil ID: 868
 	Fil ID: 1152
 	Fil ID: 7828
-	Fil ID: 24392
-	Fil ID: 19552
-	Fil ID: 21500
-	Fil ID: 31728
-	Fil ID: 34124
-	Fil ID: 22688
+	Fil ID: 37128
+	Fil ID: 35556
+	Fil ID: 19900
+	Fil ID: 16836
+	Fil ID: 34248
 Procés: lsass (PID: 944)
 	Fil ID: 972
 	Fil ID: 588
@@ -310,10 +299,8 @@ Procés: lsass (PID: 944)
 	Fil ID: 6864
 	Fil ID: 7944
 	Fil ID: 3744
-	Fil ID: 36832
-	Fil ID: 33896
-	Fil ID: 1780
-	Fil ID: 15552
+	Fil ID: 4364
+	Fil ID: 4196
 Procés: svchost (PID: 1036)
 	Fil ID: 1040
 	Fil ID: 1192
@@ -321,21 +308,19 @@ Procés: svchost (PID: 1036)
 	Fil ID: 1332
 	Fil ID: 5468
 	Fil ID: 7936
-	Fil ID: 3576
-	Fil ID: 36560
-	Fil ID: 6532
-	Fil ID: 18016
-	Fil ID: 27636
-	Fil ID: 34176
-	Fil ID: 21136
-	Fil ID: 11400
-	Fil ID: 22920
-	Fil ID: 36112
-	Fil ID: 6576
-	Fil ID: 20112
-	Fil ID: 21384
-	Fil ID: 19592
-	Fil ID: 25844
+	Fil ID: 12784
+	Fil ID: 12296
+	Fil ID: 21016
+	Fil ID: 35208
+	Fil ID: 20644
+	Fil ID: 29044
+	Fil ID: 36700
+	Fil ID: 31408
+	Fil ID: 13100
+	Fil ID: 34692
+	Fil ID: 8460
+	Fil ID: 28732
+	Fil ID: 21440
 Procés: fontdrvhost (PID: 1064)
 	Fil ID: 1068
 	Fil ID: 1092
@@ -348,27 +333,24 @@ Procés: svchost (PID: 1156)
 	Fil ID: 1204
 	Fil ID: 20344
 	Fil ID: 1968
-	Fil ID: 10344
-	Fil ID: 35124
 	Fil ID: 6740
-	Fil ID: 33068
-	Fil ID: 33212
-	Fil ID: 32356
-	Fil ID: 30508
+	Fil ID: 6748
+	Fil ID: 33872
+	Fil ID: 17708
+	Fil ID: 34856
+	Fil ID: 10500
 Procés: svchost (PID: 1208)
 	Fil ID: 1212
 	Fil ID: 1240
-	Fil ID: 31240
-	Fil ID: 16304
-	Fil ID: 37272
+	Fil ID: 35060
 Procés: svchost (PID: 1284)
 	Fil ID: 1288
 	Fil ID: 1352
 	Fil ID: 3580
 	Fil ID: 3924
-	Fil ID: 25672
-	Fil ID: 32456
-	Fil ID: 9072
+	Fil ID: 2880
+	Fil ID: 35296
+	Fil ID: 33492
 Procés: svchost (PID: 1368)
 	Fil ID: 1372
 	Fil ID: 1744
@@ -387,22 +369,18 @@ Procés: svchost (PID: 1484)
 	Fil ID: 1488
 Procés: svchost (PID: 1496)
 	Fil ID: 1500
-	Fil ID: 21632
-	Fil ID: 24508
-	Fil ID: 13872
-	Fil ID: 30944
-	Fil ID: 26932
-	Fil ID: 16552
+	Fil ID: 27256
+	Fil ID: 26144
+	Fil ID: 32024
+	Fil ID: 11228
 Procés: svchost (PID: 1536)
 	Fil ID: 1540
 	Fil ID: 1832
 	Fil ID: 2860
 	Fil ID: 2868
 	Fil ID: 2940
-	Fil ID: 36276
-	Fil ID: 30388
-	Fil ID: 9096
-	Fil ID: 28984
+	Fil ID: 23256
+	Fil ID: 17388
 Procés: svchost (PID: 1636)
 	Fil ID: 1640
 	Fil ID: 1708
@@ -420,6 +398,8 @@ Procés: svchost (PID: 1732)
 	Fil ID: 29940
 Procés: svchost (PID: 1864)
 	Fil ID: 1868
+	Fil ID: 12868
+	Fil ID: 31636
 Procés: svchost (PID: 1944)
 	Fil ID: 1948
 Procés: svchost (PID: 1952)
@@ -429,27 +409,24 @@ Procés: svchost (PID: 2016)
 	Fil ID: 2020
 	Fil ID: 1172
 	Fil ID: 2088
-	Fil ID: 25236
-	Fil ID: 29392
-	Fil ID: 35324
-	Fil ID: 18056
-	Fil ID: 30504
+	Fil ID: 33568
+	Fil ID: 22808
+	Fil ID: 28676
+	Fil ID: 33032
 Procés: svchost (PID: 2060)
 	Fil ID: 2064
 	Fil ID: 2100
 	Fil ID: 2224
-	Fil ID: 31896
-	Fil ID: 34536
-	Fil ID: 5552
-	Fil ID: 29568
+	Fil ID: 17796
+	Fil ID: 17232
+	Fil ID: 10616
 Procés: svchost (PID: 2112)
 	Fil ID: 2116
 	Fil ID: 2236
 	Fil ID: 3132
 	Fil ID: 3504
 	Fil ID: 28224
-	Fil ID: 20944
-	Fil ID: 14724
+	Fil ID: 11788
 Procés: svchost (PID: 2164)
 	Fil ID: 2168
 	Fil ID: 2356
@@ -461,18 +438,16 @@ Procés: svchost (PID: 2188)
 	Fil ID: 2564
 	Fil ID: 13248
 	Fil ID: 32384
-	Fil ID: 24356
-	Fil ID: 24300
-	Fil ID: 29300
+	Fil ID: 26596
+	Fil ID: 22348
 Procés: svchost (PID: 2264)
 	Fil ID: 2268
 	Fil ID: 2392
 	Fil ID: 2396
 	Fil ID: 2400
-	Fil ID: 11608
-	Fil ID: 21028
-	Fil ID: 32192
-	Fil ID: 3156
+	Fil ID: 11200
+	Fil ID: 7736
+	Fil ID: 22064
 Procés: NVDisplay.Container (PID: 2300)
 	Fil ID: 2304
 	Fil ID: 2588
@@ -522,7 +497,7 @@ Procés: dasHost (PID: 2520)
 Procés: svchost (PID: 2600)
 	Fil ID: 2604
 	Fil ID: 2660
-	Fil ID: 22728
+	Fil ID: 25896
 Procés: svchost (PID: 2616)
 	Fil ID: 2620
 	Fil ID: 2692
@@ -1054,6 +1029,26 @@ Procés: Memory Compression (PID: 2764)
 	Fil ID: 29820
 	Fil ID: 264
 	Fil ID: 30788
+	Fil ID: 17476
+	Fil ID: 37036
+	Fil ID: 10716
+	Fil ID: 13192
+	Fil ID: 34088
+	Fil ID: 29992
+	Fil ID: 35820
+	Fil ID: 7368
+	Fil ID: 33888
+	Fil ID: 32456
+	Fil ID: 13492
+	Fil ID: 27676
+	Fil ID: 6468
+	Fil ID: 15116
+	Fil ID: 14516
+	Fil ID: 27116
+	Fil ID: 29568
+	Fil ID: 13872
+	Fil ID: 35540
+	Fil ID: 35756
 Procés: svchost (PID: 2884)
 	Fil ID: 2888
 Procés: svchost (PID: 3008)
@@ -1063,8 +1058,8 @@ Procés: svchost (PID: 3008)
 	Fil ID: 3112
 	Fil ID: 3136
 	Fil ID: 24604
-	Fil ID: 24824
 	Fil ID: 25808
+	Fil ID: 36780
 Procés: svchost (PID: 2720)
 	Fil ID: 2784
 	Fil ID: 2984
@@ -1075,14 +1070,15 @@ Procés: svchost (PID: 2720)
 	Fil ID: 8528
 	Fil ID: 8540
 	Fil ID: 8560
-	Fil ID: 25408
-	Fil ID: 5252
-	Fil ID: 24428
-	Fil ID: 29184
-	Fil ID: 37204
-	Fil ID: 8136
-	Fil ID: 21872
-	Fil ID: 31596
+	Fil ID: 25220
+	Fil ID: 16712
+	Fil ID: 37592
+	Fil ID: 16644
+	Fil ID: 9916
+	Fil ID: 4836
+	Fil ID: 36944
+	Fil ID: 10804
+	Fil ID: 23696
 Procés: svchost (PID: 3456)
 	Fil ID: 3460
 	Fil ID: 3508
@@ -1091,9 +1087,11 @@ Procés: svchost (PID: 3456)
 	Fil ID: 3620
 	Fil ID: 6572
 	Fil ID: 10396
+	Fil ID: 22420
 Procés: svchost (PID: 3588)
 	Fil ID: 3592
-	Fil ID: 24652
+	Fil ID: 34576
+	Fil ID: 14768
 Procés: svchost (PID: 3684)
 	Fil ID: 3688
 	Fil ID: 3792
@@ -1102,11 +1100,11 @@ Procés: svchost (PID: 3684)
 	Fil ID: 3816
 	Fil ID: 23040
 	Fil ID: 31448
-	Fil ID: 29316
-	Fil ID: 23076
-	Fil ID: 20840
-	Fil ID: 6636
-	Fil ID: 35388
+	Fil ID: 32932
+	Fil ID: 9636
+	Fil ID: 27076
+	Fil ID: 32716
+	Fil ID: 20468
 Procés: svchost (PID: 3704)
 	Fil ID: 3712
 	Fil ID: 3976
@@ -1130,7 +1128,9 @@ Procés: spoolsv (PID: 3872)
 	Fil ID: 14216
 Procés: svchost (PID: 3884)
 	Fil ID: 3888
-	Fil ID: 13764
+	Fil ID: 10784
+	Fil ID: 20332
+	Fil ID: 8724
 Procés: svchost (PID: 4020)
 	Fil ID: 4024
 	Fil ID: 4084
@@ -1142,14 +1142,14 @@ Procés: svchost (PID: 4020)
 	Fil ID: 5216
 	Fil ID: 5220
 	Fil ID: 5224
-	Fil ID: 32340
+	Fil ID: 5296
+	Fil ID: 13968
 Procés: svchost (PID: 3532)
 	Fil ID: 3748
 	Fil ID: 4124
 	Fil ID: 4136
-	Fil ID: 4128
-	Fil ID: 12008
-	Fil ID: 36944
+	Fil ID: 24632
+	Fil ID: 11868
 Procés: svchost (PID: 4240)
 	Fil ID: 4244
 Procés: svchost (PID: 4248)
@@ -1164,6 +1164,9 @@ Procés: svchost (PID: 4256)
 	Fil ID: 10004
 	Fil ID: 10072
 	Fil ID: 17528
+	Fil ID: 11648
+	Fil ID: 2644
+	Fil ID: 17160
 Procés: svchost (PID: 4264)
 	Fil ID: 4268
 	Fil ID: 4488
@@ -1174,12 +1177,13 @@ Procés: svchost (PID: 4264)
 	Fil ID: 6508
 	Fil ID: 6596
 	Fil ID: 20756
-	Fil ID: 772
-	Fil ID: 13256
 	Fil ID: 7376
-	Fil ID: 25252
-	Fil ID: 35220
-	Fil ID: 37480
+	Fil ID: 17840
+	Fil ID: 23864
+	Fil ID: 26824
+	Fil ID: 25788
+	Fil ID: 10428
+	Fil ID: 36984
 Procés: svchost (PID: 4272)
 	Fil ID: 4276
 	Fil ID: 8512
@@ -1199,8 +1203,8 @@ Procés: svchost (PID: 4296)
 	Fil ID: 8204
 	Fil ID: 8200
 	Fil ID: 8196
-	Fil ID: 31372
-	Fil ID: 34652
+	Fil ID: 33776
+	Fil ID: 30344
 Procés: svchost (PID: 4304)
 	Fil ID: 4308
 Procés: nvcontainer (PID: 4356)
@@ -1249,9 +1253,10 @@ Procés: RazerCentralService (PID: 4388)
 	Fil ID: 9100
 	Fil ID: 12256
 	Fil ID: 10920
-	Fil ID: 35372
-	Fil ID: 27872
-	Fil ID: 20004
+	Fil ID: 1436
+	Fil ID: 31388
+	Fil ID: 23620
+	Fil ID: 36124
 Procés: RzSDKService (PID: 4400)
 	Fil ID: 4404
 	Fil ID: 6224
@@ -1274,13 +1279,15 @@ Procés: GameManagerService (PID: 4408)
 	Fil ID: 18476
 	Fil ID: 19244
 	Fil ID: 7984
-	Fil ID: 19068
-	Fil ID: 13284
-	Fil ID: 3568
-	Fil ID: 32796
-	Fil ID: 1044
-	Fil ID: 14000
-	Fil ID: 26620
+	Fil ID: 2364
+	Fil ID: 35560
+	Fil ID: 27776
+	Fil ID: 37428
+	Fil ID: 9168
+	Fil ID: 8128
+	Fil ID: 28928
+	Fil ID: 23876
+	Fil ID: 15544
 Procés: RtkAudUService64 (PID: 4416)
 	Fil ID: 4420
 	Fil ID: 4964
@@ -1367,22 +1374,20 @@ Procés: MsMpEng (PID: 4568)
 	Fil ID: 11208
 	Fil ID: 11100
 	Fil ID: 13948
-	Fil ID: 32636
-	Fil ID: 23312
 	Fil ID: 24776
-	Fil ID: 17128
 	Fil ID: 4780
-	Fil ID: 21244
 	Fil ID: 26556
 	Fil ID: 29644
-	Fil ID: 17292
-	Fil ID: 31936
-	Fil ID: 13136
-	Fil ID: 25620
-	Fil ID: 16672
 	Fil ID: 1808
-	Fil ID: 28352
-	Fil ID: 24696
+	Fil ID: 21820
+	Fil ID: 31824
+	Fil ID: 21400
+	Fil ID: 14808
+	Fil ID: 25620
+	Fil ID: 25684
+	Fil ID: 9072
+	Fil ID: 34400
+	Fil ID: 28788
 Procés: MpDefenderCoreService (PID: 4584)
 	Fil ID: 4588
 	Fil ID: 5380
@@ -1417,7 +1422,6 @@ Procés: svchost (PID: 5488)
 	Fil ID: 5272
 	Fil ID: 5416
 	Fil ID: 5232
-	Fil ID: 25472
 Procés: dllhost (PID: 6420)
 	Fil ID: 6424
 	Fil ID: 6448
@@ -1599,10 +1603,12 @@ Procés: Razer Synapse Service (PID: 7300)
 	Fil ID: 9424
 	Fil ID: 36736
 	Fil ID: 19000
-	Fil ID: 29992
-	Fil ID: 34488
-	Fil ID: 11672
-	Fil ID: 21472
+	Fil ID: 30872
+	Fil ID: 36292
+	Fil ID: 6132
+	Fil ID: 12992
+	Fil ID: 29620
+	Fil ID: 36808
 Procés: SearchIndexer (PID: 7576)
 	Fil ID: 7580
 	Fil ID: 7668
@@ -1616,25 +1622,20 @@ Procés: SearchIndexer (PID: 7576)
 	Fil ID: 8020
 	Fil ID: 7904
 	Fil ID: 11072
-	Fil ID: 27276
-	Fil ID: 13200
-	Fil ID: 10528
-	Fil ID: 34236
-	Fil ID: 2428
-	Fil ID: 34604
+	Fil ID: 11720
+	Fil ID: 1620
+	Fil ID: 19436
+	Fil ID: 7060
+	Fil ID: 22084
+	Fil ID: 11308
 Procés: svchost (PID: 848)
 	Fil ID: 6520
 	Fil ID: 5464
-	Fil ID: 13724
-	Fil ID: 13272
-	Fil ID: 7724
-	Fil ID: 37140
-	Fil ID: 31408
-	Fil ID: 37764
-	Fil ID: 34212
-	Fil ID: 22372
-	Fil ID: 33840
-	Fil ID: 20900
+	Fil ID: 6288
+	Fil ID: 20840
+	Fil ID: 20012
+	Fil ID: 11724
+	Fil ID: 7744
 Procés: svchost (PID: 8340)
 	Fil ID: 8344
 	Fil ID: 8388
@@ -1642,9 +1643,10 @@ Procés: svchost (PID: 8340)
 	Fil ID: 8672
 	Fil ID: 8820
 	Fil ID: 32916
-	Fil ID: 16644
-	Fil ID: 36272
-	Fil ID: 37756
+	Fil ID: 24588
+	Fil ID: 31968
+	Fil ID: 14948
+	Fil ID: 2120
 Procés: AggregatorHost (PID: 7976)
 	Fil ID: 7996
 	Fil ID: 6336
@@ -1661,6 +1663,7 @@ Procés: svchost (PID: 10812)
 	Fil ID: 11148
 	Fil ID: 11212
 	Fil ID: 6644
+	Fil ID: 20968
 Procés: NisSrv (PID: 11092)
 	Fil ID: 5192
 	Fil ID: 3100
@@ -1671,7 +1674,15 @@ Procés: NisSrv (PID: 11092)
 	Fil ID: 11572
 	Fil ID: 11960
 	Fil ID: 11964
-	Fil ID: 2836
+	Fil ID: 33856
+	Fil ID: 34740
+	Fil ID: 12252
+	Fil ID: 34276
+	Fil ID: 22076
+	Fil ID: 18560
+	Fil ID: 37852
+	Fil ID: 36860
+	Fil ID: 28948
 Procés: svchost (PID: 4524)
 	Fil ID: 3172
 	Fil ID: 10788
@@ -1680,12 +1691,11 @@ Procés: svchost (PID: 4524)
 	Fil ID: 11276
 	Fil ID: 11280
 	Fil ID: 11600
-	Fil ID: 28680
+	Fil ID: 22508
 Procés: svchost (PID: 11332)
 	Fil ID: 11336
-	Fil ID: 2000
-	Fil ID: 19264
-	Fil ID: 26380
+	Fil ID: 8080
+	Fil ID: 27204
 Procés: svchost (PID: 10128)
 	Fil ID: 11416
 	Fil ID: 10132
@@ -1702,7 +1712,7 @@ Procés: MoUsoCoreWorker (PID: 11968)
 	Fil ID: 12616
 	Fil ID: 18860
 	Fil ID: 17756
-	Fil ID: 5584
+	Fil ID: 37620
 Procés: svchost (PID: 10216)
 	Fil ID: 960
 	Fil ID: 10160
@@ -1725,8 +1735,8 @@ Procés: svchost (PID: 14332)
 	Fil ID: 13364
 	Fil ID: 13896
 	Fil ID: 12948
-	Fil ID: 17948
-	Fil ID: 26472
+	Fil ID: 20648
+	Fil ID: 25564
 Procés: svchost (PID: 15212)
 	Fil ID: 15216
 Procés: svchost (PID: 18168)
@@ -1744,8 +1754,8 @@ Procés: svchost (PID: 8440)
 	Fil ID: 8504
 	Fil ID: 3956
 	Fil ID: 12056
-	Fil ID: 11132
-	Fil ID: 8608
+	Fil ID: 24668
+	Fil ID: 23884
 Procés: sqlservr (PID: 4108)
 	Fil ID: 5340
 	Fil ID: 16296
@@ -1773,7 +1783,6 @@ Procés: sqlservr (PID: 4108)
 	Fil ID: 16588
 	Fil ID: 16980
 	Fil ID: 16972
-	Fil ID: 16576
 	Fil ID: 12240
 	Fil ID: 10828
 	Fil ID: 15428
@@ -1824,7 +1833,6 @@ Procés: sqlservr (PID: 4108)
 	Fil ID: 2012
 	Fil ID: 1052
 	Fil ID: 6004
-	Fil ID: 6000
 	Fil ID: 2228
 	Fil ID: 5056
 	Fil ID: 7712
@@ -1840,7 +1848,6 @@ Procés: sqlservr (PID: 4108)
 	Fil ID: 13372
 	Fil ID: 4688
 	Fil ID: 27128
-	Fil ID: 19444
 	Fil ID: 28148
 	Fil ID: 22272
 	Fil ID: 33884
@@ -1863,7 +1870,8 @@ Procés: sqlservr (PID: 4108)
 	Fil ID: 27468
 	Fil ID: 16780
 	Fil ID: 17712
-	Fil ID: 23240
+	Fil ID: 512
+	Fil ID: 25832
 Procés: RzChromaStreamServer (PID: 17376)
 	Fil ID: 11420
 	Fil ID: 12864
@@ -1884,8 +1892,8 @@ Procés: sqlceip (PID: 2432)
 	Fil ID: 2528
 	Fil ID: 3988
 	Fil ID: 17044
-	Fil ID: 29264
-	Fil ID: 23892
+	Fil ID: 14148
+	Fil ID: 28768
 Procés: svchost (PID: 18856)
 	Fil ID: 12856
 	Fil ID: 10376
@@ -1893,8 +1901,8 @@ Procés: svchost (PID: 18856)
 	Fil ID: 12184
 	Fil ID: 12228
 	Fil ID: 12244
-	Fil ID: 35988
-	Fil ID: 27380
+	Fil ID: 16352
+	Fil ID: 15872
 Procés: svchost (PID: 19024)
 	Fil ID: 8956
 Procés: svchost (PID: 2696)
@@ -1915,13 +1923,14 @@ Procés: csrss (PID: 31608)
 	Fil ID: 23188
 	Fil ID: 22312
 	Fil ID: 13168
-	Fil ID: 2120
+	Fil ID: 19444
 Procés: winlogon (PID: 8424)
 	Fil ID: 37060
 	Fil ID: 31184
 	Fil ID: 29404
-	Fil ID: 9192
-	Fil ID: 35396
+	Fil ID: 18092
+	Fil ID: 30524
+	Fil ID: 23860
 Procés: fontdrvhost (PID: 4980)
 	Fil ID: 24660
 	Fil ID: 26796
@@ -1950,7 +1959,7 @@ Procés: dwm (PID: 24908)
 	Fil ID: 29468
 	Fil ID: 15052
 	Fil ID: 34996
-	Fil ID: 9604
+	Fil ID: 9288
 Procés: NVDisplay.Container (PID: 31652)
 	Fil ID: 27808
 	Fil ID: 31512
@@ -1995,8 +2004,7 @@ Procés: nvcontainer (PID: 27288)
 	Fil ID: 12628
 	Fil ID: 5604
 	Fil ID: 31688
-	Fil ID: 640
-	Fil ID: 9868
+	Fil ID: 25424
 Procés: sihost (PID: 8484)
 	Fil ID: 27516
 	Fil ID: 32936
@@ -2006,20 +2014,22 @@ Procés: sihost (PID: 8484)
 	Fil ID: 33340
 	Fil ID: 1560
 	Fil ID: 28444
-	Fil ID: 21796
-	Fil ID: 12520
-	Fil ID: 32404
-	Fil ID: 3784
+	Fil ID: 28304
+	Fil ID: 36136
+	Fil ID: 6216
 Procés: svchost (PID: 37840)
 	Fil ID: 5068
 	Fil ID: 26272
 	Fil ID: 25516
-	Fil ID: 37360
-	Fil ID: 1028
-	Fil ID: 28064
-	Fil ID: 17220
-	Fil ID: 20564
-	Fil ID: 11592
+	Fil ID: 10408
+	Fil ID: 24744
+	Fil ID: 32720
+	Fil ID: 12860
+	Fil ID: 16868
+	Fil ID: 23760
+	Fil ID: 23080
+	Fil ID: 28020
+	Fil ID: 29236
 Procés: nvcontainer (PID: 33600)
 	Fil ID: 28128
 	Fil ID: 29544
@@ -2046,11 +2056,11 @@ Procés: nvcontainer (PID: 33600)
 	Fil ID: 34048
 	Fil ID: 7588
 	Fil ID: 4956
+	Fil ID: 21004
 Procés: svchost (PID: 28212)
 	Fil ID: 36820
 	Fil ID: 33152
 	Fil ID: 36200
-	Fil ID: 29200
 Procés: taskhostw (PID: 36852)
 	Fil ID: 9940
 	Fil ID: 36544
@@ -2058,8 +2068,8 @@ Procés: taskhostw (PID: 36852)
 	Fil ID: 21256
 	Fil ID: 33564
 	Fil ID: 1980
-	Fil ID: 15804
-	Fil ID: 29136
+	Fil ID: 18344
+	Fil ID: 8976
 Procés: Razer Synapse Service Process (PID: 2380)
 	Fil ID: 6400
 	Fil ID: 5692
@@ -2070,24 +2080,24 @@ Procés: Razer Synapse Service Process (PID: 2380)
 	Fil ID: 22156
 	Fil ID: 37080
 	Fil ID: 19080
-	Fil ID: 30272
 	Fil ID: 17396
-	Fil ID: 13796
 	Fil ID: 35884
-	Fil ID: 28832
 	Fil ID: 35356
 	Fil ID: 21480
 	Fil ID: 3912
 	Fil ID: 20088
 	Fil ID: 16120
-	Fil ID: 8044
 	Fil ID: 21116
-	Fil ID: 10924
-	Fil ID: 23888
-	Fil ID: 3632
-	Fil ID: 27664
-	Fil ID: 15712
-	Fil ID: 26464
+	Fil ID: 24272
+	Fil ID: 22560
+	Fil ID: 9532
+	Fil ID: 8760
+	Fil ID: 36528
+	Fil ID: 7628
+	Fil ID: 1460
+	Fil ID: 7460
+	Fil ID: 29716
+	Fil ID: 22080
 Procés: explorer (PID: 22192)
 	Fil ID: 2248
 	Fil ID: 7292
@@ -2172,7 +2182,6 @@ Procés: explorer (PID: 22192)
 	Fil ID: 37512
 	Fil ID: 18796
 	Fil ID: 1348
-	Fil ID: 18276
 	Fil ID: 4152
 	Fil ID: 9276
 	Fil ID: 14024
@@ -2195,30 +2204,25 @@ Procés: explorer (PID: 22192)
 	Fil ID: 26200
 	Fil ID: 10012
 	Fil ID: 35144
-	Fil ID: 3492
-	Fil ID: 14180
-	Fil ID: 35308
-	Fil ID: 10544
-	Fil ID: 11996
-	Fil ID: 26928
-	Fil ID: 28132
-	Fil ID: 36404
-	Fil ID: 20308
-	Fil ID: 31396
-	Fil ID: 35656
-	Fil ID: 33448
 	Fil ID: 23180
-	Fil ID: 27992
-	Fil ID: 4364
-	Fil ID: 4060
+	Fil ID: 19580
+	Fil ID: 12984
+	Fil ID: 28688
+	Fil ID: 996
+	Fil ID: 26376
+	Fil ID: 16248
+	Fil ID: 30148
+	Fil ID: 33216
+	Fil ID: 20272
+	Fil ID: 9604
 Procés: svchost (PID: 22564)
 	Fil ID: 18744
 	Fil ID: 33644
 	Fil ID: 36536
 	Fil ID: 25132
-	Fil ID: 6804
-	Fil ID: 24584
-	Fil ID: 22144
+	Fil ID: 5428
+	Fil ID: 12496
+	Fil ID: 10460
 Procés: StartMenuExperienceHost (PID: 4664)
 	Fil ID: 24828
 	Fil ID: 7516
@@ -2226,8 +2230,8 @@ Procés: StartMenuExperienceHost (PID: 4664)
 	Fil ID: 34068
 	Fil ID: 24432
 	Fil ID: 26412
-	Fil ID: 14652
-	Fil ID: 10408
+	Fil ID: 35396
+	Fil ID: 9548
 Procés: RuntimeBroker (PID: 8688)
 	Fil ID: 14596
 Procés: ctfmon (PID: 33512)
@@ -2288,11 +2292,14 @@ Procés: SearchApp (PID: 35620)
 	Fil ID: 23716
 	Fil ID: 15660
 	Fil ID: 5000
-	Fil ID: 10460
 	Fil ID: 25300
 	Fil ID: 25140
-	Fil ID: 35800
-	Fil ID: 16628
+	Fil ID: 9660
+	Fil ID: 24584
+	Fil ID: 16920
+	Fil ID: 7852
+	Fil ID: 20484
+	Fil ID: 15188
 Procés: RuntimeBroker (PID: 26444)
 	Fil ID: 21596
 	Fil ID: 7488
@@ -2464,9 +2471,8 @@ Procés: NVIDIA Share (PID: 22504)
 	Fil ID: 30188
 	Fil ID: 12884
 	Fil ID: 9732
-	Fil ID: 6064
-	Fil ID: 37640
-	Fil ID: 30712
+	Fil ID: 19712
+	Fil ID: 13696
 Procés: TextInputHost (PID: 35692)
 	Fil ID: 35696
 	Fil ID: 35868
@@ -2483,8 +2489,8 @@ Procés: TextInputHost (PID: 35692)
 	Fil ID: 29868
 	Fil ID: 35644
 	Fil ID: 24480
-	Fil ID: 1580
-	Fil ID: 23788
+	Fil ID: 21960
+	Fil ID: 28384
 Procés: NVIDIA Share (PID: 22928)
 	Fil ID: 32008
 	Fil ID: 26744
@@ -2518,7 +2524,7 @@ Procés: NVIDIA Share (PID: 22928)
 	Fil ID: 12812
 	Fil ID: 22868
 	Fil ID: 17088
-	Fil ID: 34256
+	Fil ID: 33784
 Procés: NVIDIA Share (PID: 5544)
 	Fil ID: 32424
 	Fil ID: 24708
@@ -2535,7 +2541,7 @@ Procés: NVIDIA Share (PID: 5544)
 	Fil ID: 26776
 	Fil ID: 27344
 	Fil ID: 11904
-	Fil ID: 24140
+	Fil ID: 21124
 Procés: PhoneExperienceHost (PID: 25032)
 	Fil ID: 29456
 	Fil ID: 24384
@@ -2554,10 +2560,9 @@ Procés: PhoneExperienceHost (PID: 25032)
 	Fil ID: 10040
 	Fil ID: 6556
 	Fil ID: 33100
-	Fil ID: 37168
-	Fil ID: 11952
-	Fil ID: 1836
-	Fil ID: 33772
+	Fil ID: 30292
+	Fil ID: 16372
+	Fil ID: 6676
 Procés: SecurityHealthSystray (PID: 22136)
 	Fil ID: 4132
 Procés: RtkAudUService64 (PID: 26772)
@@ -2714,7 +2719,8 @@ Procés: EpicGamesLauncher (PID: 15168)
 	Fil ID: 34024
 	Fil ID: 21768
 	Fil ID: 32072
-	Fil ID: 27604
+	Fil ID: 11532
+	Fil ID: 13900
 Procés: Discord (PID: 8784)
 	Fil ID: 16508
 	Fil ID: 11352
@@ -2764,6 +2770,7 @@ Procés: Discord (PID: 6668)
 	Fil ID: 2420
 	Fil ID: 20160
 	Fil ID: 4760
+	Fil ID: 37228
 Procés: Discord (PID: 5236)
 	Fil ID: 10520
 	Fil ID: 18076
@@ -2817,8 +2824,8 @@ Procés: steam (PID: 7288)
 	Fil ID: 6344
 	Fil ID: 36328
 	Fil ID: 30284
-	Fil ID: 30888
-	Fil ID: 36892
+	Fil ID: 4560
+	Fil ID: 17084
 Procés: CompPkgSrv (PID: 21372)
 	Fil ID: 20660
 Procés: Discord (PID: 22704)
@@ -2875,7 +2882,6 @@ Procés: Discord (PID: 22704)
 	Fil ID: 37676
 	Fil ID: 508
 	Fil ID: 16816
-	Fil ID: 9952
 Procés: Discord (PID: 22900)
 	Fil ID: 22016
 	Fil ID: 5048
@@ -2931,38 +2937,24 @@ Procés: Razer Synapse 3 (PID: 20252)
 	Fil ID: 34008
 	Fil ID: 34012
 	Fil ID: 26676
-	Fil ID: 12016
-	Fil ID: 2908
-	Fil ID: 27916
-	Fil ID: 24136
-	Fil ID: 32976
-	Fil ID: 31428
-	Fil ID: 6044
-	Fil ID: 23396
-	Fil ID: 19628
-	Fil ID: 37724
-	Fil ID: 11668
-	Fil ID: 31340
-	Fil ID: 28476
-	Fil ID: 34076
-	Fil ID: 18052
-	Fil ID: 3804
-	Fil ID: 19164
-	Fil ID: 31284
-	Fil ID: 23104
-	Fil ID: 18316
-	Fil ID: 35164
-	Fil ID: 27584
-	Fil ID: 36380
-	Fil ID: 1316
-	Fil ID: 20068
-	Fil ID: 37800
-	Fil ID: 29584
-	Fil ID: 14964
-	Fil ID: 5428
-	Fil ID: 7004
-	Fil ID: 1940
-	Fil ID: 33904
+	Fil ID: 25496
+	Fil ID: 13416
+	Fil ID: 7692
+	Fil ID: 30048
+	Fil ID: 32196
+	Fil ID: 33416
+	Fil ID: 16768
+	Fil ID: 31620
+	Fil ID: 36464
+	Fil ID: 17488
+	Fil ID: 12900
+	Fil ID: 37320
+	Fil ID: 12336
+	Fil ID: 21636
+	Fil ID: 31596
+	Fil ID: 26520
+	Fil ID: 11020
+	Fil ID: 15712
 Procés: jetbrains-toolbox (PID: 37252)
 	Fil ID: 37748
 	Fil ID: 14676
@@ -2992,13 +2984,11 @@ Procés: jetbrains-toolbox (PID: 37252)
 	Fil ID: 15196
 	Fil ID: 10136
 	Fil ID: 6440
-	Fil ID: 36284
-	Fil ID: 18176
-	Fil ID: 10352
-	Fil ID: 8596
-	Fil ID: 27492
-	Fil ID: 30000
-	Fil ID: 20752
+	Fil ID: 27072
+	Fil ID: 23556
+	Fil ID: 31396
+	Fil ID: 33708
+	Fil ID: 1680
 Procés: Overwolf (PID: 11692)
 	Fil ID: 13316
 	Fil ID: 26424
@@ -3092,8 +3082,9 @@ Procés: Overwolf (PID: 11692)
 	Fil ID: 37200
 	Fil ID: 31020
 	Fil ID: 28088
-	Fil ID: 31760
-	Fil ID: 28236
+	Fil ID: 33136
+	Fil ID: 9676
+	Fil ID: 1188
 Procés: Creative Cloud (PID: 31788)
 	Fil ID: 13252
 	Fil ID: 19400
@@ -3131,15 +3122,14 @@ Procés: Creative Cloud (PID: 31788)
 	Fil ID: 13116
 	Fil ID: 17684
 	Fil ID: 11684
-	Fil ID: 2484
-	Fil ID: 34416
+	Fil ID: 5172
+	Fil ID: 33716
+	Fil ID: 24724
+	Fil ID: 33244
+	Fil ID: 21944
 	Fil ID: 25264
-	Fil ID: 34188
-	Fil ID: 21392
-	Fil ID: 25748
-	Fil ID: 3400
-	Fil ID: 31368
-	Fil ID: 13464
+	Fil ID: 35404
+	Fil ID: 23384
 Procés: Razer Central (PID: 13832)
 	Fil ID: 13360
 	Fil ID: 26312
@@ -3175,7 +3165,8 @@ Procés: Razer Central (PID: 13832)
 	Fil ID: 16300
 	Fil ID: 21280
 	Fil ID: 23368
-	Fil ID: 7364
+	Fil ID: 6484
+	Fil ID: 5608
 Procés: AdobeIPCBroker (PID: 3224)
 	Fil ID: 37608
 	Fil ID: 3216
@@ -3252,6 +3243,7 @@ Procés: Creative Cloud UI Helper (PID: 12344)
 	Fil ID: 12212
 	Fil ID: 12292
 	Fil ID: 18864
+	Fil ID: 24312
 Procés: Adobe Desktop Service (PID: 12488)
 	Fil ID: 12492
 	Fil ID: 8704
@@ -3299,12 +3291,10 @@ Procés: Adobe Desktop Service (PID: 12488)
 	Fil ID: 35068
 	Fil ID: 26316
 	Fil ID: 13128
-	Fil ID: 35880
 	Fil ID: 28944
-	Fil ID: 36504
-	Fil ID: 24644
-	Fil ID: 37628
-	Fil ID: 27572
+	Fil ID: 15076
+	Fil ID: 12208
+	Fil ID: 31980
 Procés: Creative Cloud UI Helper (PID: 12704)
 	Fil ID: 17728
 	Fil ID: 12800
@@ -3338,7 +3328,7 @@ Procés: CefSharp.BrowserSubprocess (PID: 3168)
 	Fil ID: 11912
 	Fil ID: 10480
 	Fil ID: 36076
-	Fil ID: 21152
+	Fil ID: 32888
 Procés: Creative Cloud UI Helper (PID: 33628)
 	Fil ID: 35992
 	Fil ID: 16028
@@ -3379,8 +3369,8 @@ Procés: Creative Cloud UI Helper (PID: 33628)
 	Fil ID: 31332
 	Fil ID: 1472
 	Fil ID: 8856
-	Fil ID: 5592
-	Fil ID: 25292
+	Fil ID: 33920
+	Fil ID: 5920
 Procés: CefSharp.BrowserSubprocess (PID: 15928)
 	Fil ID: 14532
 	Fil ID: 14344
@@ -3393,7 +3383,7 @@ Procés: CefSharp.BrowserSubprocess (PID: 15928)
 	Fil ID: 19348
 	Fil ID: 14208
 	Fil ID: 14548
-	Fil ID: 32660
+	Fil ID: 14872
 Procés: EpicWebHelper (PID: 32224)
 	Fil ID: 14248
 	Fil ID: 14408
@@ -3430,6 +3420,7 @@ Procés: EpicWebHelper (PID: 32224)
 	Fil ID: 21588
 	Fil ID: 3528
 	Fil ID: 1972
+	Fil ID: 29184
 Procés: CefSharp.BrowserSubprocess (PID: 1760)
 	Fil ID: 16664
 	Fil ID: 16744
@@ -3440,7 +3431,7 @@ Procés: CefSharp.BrowserSubprocess (PID: 1760)
 	Fil ID: 15640
 	Fil ID: 15644
 	Fil ID: 15648
-	Fil ID: 36984
+	Fil ID: 14064
 Procés: CefSharp.BrowserSubprocess (PID: 16076)
 	Fil ID: 16080
 	Fil ID: 1648
@@ -3455,7 +3446,7 @@ Procés: CefSharp.BrowserSubprocess (PID: 16076)
 	Fil ID: 15008
 	Fil ID: 15812
 	Fil ID: 26732
-	Fil ID: 17296
+	Fil ID: 25748
 Procés: CefSharp.BrowserSubprocess (PID: 16108)
 	Fil ID: 16208
 	Fil ID: 7012
@@ -3476,7 +3467,7 @@ Procés: CefSharp.BrowserSubprocess (PID: 16108)
 	Fil ID: 3120
 	Fil ID: 32136
 	Fil ID: 17648
-	Fil ID: 22468
+	Fil ID: 17288
 Procés: steamwebhelper (PID: 19396)
 	Fil ID: 19156
 	Fil ID: 24032
@@ -3524,7 +3515,7 @@ Procés: OverwolfBrowser (PID: 5112)
 	Fil ID: 13580
 	Fil ID: 13836
 	Fil ID: 13660
-	Fil ID: 11308
+	Fil ID: 16036
 Procés: Creative Cloud Helper (PID: 13636)
 	Fil ID: 13640
 	Fil ID: 12920
@@ -3533,8 +3524,7 @@ Procés: Creative Cloud Helper (PID: 13636)
 	Fil ID: 13676
 	Fil ID: 19780
 	Fil ID: 31028
-	Fil ID: 25332
-	Fil ID: 13932
+	Fil ID: 15548
 Procés: OverwolfBrowser (PID: 10792)
 	Fil ID: 4728
 	Fil ID: 17188
@@ -3576,7 +3566,7 @@ Procés: OverwolfBrowser (PID: 10792)
 	Fil ID: 7784
 	Fil ID: 29412
 	Fil ID: 9312
-	Fil ID: 24252
+	Fil ID: 35220
 Procés: OverwolfBrowser (PID: 14492)
 	Fil ID: 6368
 	Fil ID: 16960
@@ -3603,7 +3593,7 @@ Procés: OverwolfBrowser (PID: 14492)
 	Fil ID: 34036
 	Fil ID: 15012
 	Fil ID: 28520
-	Fil ID: 16656
+	Fil ID: 23904
 Procés: OverwolfBrowser (PID: 9684)
 	Fil ID: 17244
 	Fil ID: 17592
@@ -3620,7 +3610,7 @@ Procés: OverwolfBrowser (PID: 9684)
 	Fil ID: 34956
 	Fil ID: 5116
 	Fil ID: 16900
-	Fil ID: 25496
+	Fil ID: 6120
 Procés: steamservice (PID: 8520)
 	Fil ID: 15556
 	Fil ID: 17172
@@ -3678,8 +3668,7 @@ Procés: CoreSync (PID: 11344)
 	Fil ID: 35864
 	Fil ID: 21672
 	Fil ID: 9404
-	Fil ID: 10756
-	Fil ID: 32152
+	Fil ID: 13652
 Procés: OverwolfHelper (PID: 11704)
 	Fil ID: 2360
 	Fil ID: 32692
@@ -3766,7 +3755,7 @@ Procés: steamwebhelper (PID: 35708)
 	Fil ID: 29748
 	Fil ID: 9396
 	Fil ID: 15208
-	Fil ID: 14236
+	Fil ID: 37788
 Procés: RuntimeBroker (PID: 26396)
 	Fil ID: 24248
 Procés: EpicWebHelper (PID: 19808)
@@ -3801,6 +3790,7 @@ Procés: steamwebhelper (PID: 17620)
 	Fil ID: 6396
 	Fil ID: 23588
 	Fil ID: 32140
+	Fil ID: 21472
 Procés: RiotClientCrashHandler (PID: 26340)
 	Fil ID: 23856
 	Fil ID: 12612
@@ -3914,11 +3904,11 @@ Procés: node (PID: 10888)
 	Fil ID: 16908
 	Fil ID: 10000
 	Fil ID: 4540
-	Fil ID: 20652
-	Fil ID: 27532
-	Fil ID: 11720
-	Fil ID: 23900
-	Fil ID: 18912
+	Fil ID: 17604
+	Fil ID: 30060
+	Fil ID: 34176
+	Fil ID: 2776
+	Fil ID: 18112
 Procés: conhost (PID: 30252)
 	Fil ID: 34132
 	Fil ID: 26548
@@ -3956,7 +3946,6 @@ Procés: Video.UI (PID: 21660)
 	Fil ID: 11984
 Procés: RuntimeBroker (PID: 980)
 	Fil ID: 992
-	Fil ID: 21960
 Procés: OverwolfBrowser (PID: 16104)
 	Fil ID: 16444
 	Fil ID: 13976
@@ -3972,9 +3961,11 @@ Procés: OverwolfBrowser (PID: 16104)
 	Fil ID: 19108
 	Fil ID: 15604
 	Fil ID: 19740
-	Fil ID: 5716
+	Fil ID: 11644
 Procés: UserOOBEBroker (PID: 37560)
 	Fil ID: 32732
+	Fil ID: 20640
+	Fil ID: 10468
 Procés: chrome (PID: 22416)
 	Fil ID: 10672
 	Fil ID: 20512
@@ -4018,7 +4009,7 @@ Procés: chrome (PID: 22416)
 	Fil ID: 11936
 	Fil ID: 23704
 	Fil ID: 27548
-	Fil ID: 12836
+	Fil ID: 16320
 Procés: chrome (PID: 3516)
 	Fil ID: 8492
 	Fil ID: 9264
@@ -4068,7 +4059,7 @@ Procés: chrome (PID: 17736)
 	Fil ID: 33160
 	Fil ID: 31248
 	Fil ID: 27488
-	Fil ID: 3900
+	Fil ID: 17324
 Procés: chrome (PID: 22140)
 	Fil ID: 25776
 	Fil ID: 4844
@@ -4094,7 +4085,7 @@ Procés: chrome (PID: 22140)
 	Fil ID: 30180
 	Fil ID: 3056
 	Fil ID: 35428
-	Fil ID: 5164
+	Fil ID: 32292
 Procés: chrome (PID: 31152)
 	Fil ID: 25528
 	Fil ID: 32084
@@ -4238,6 +4229,7 @@ Procés: chrome (PID: 23144)
 	Fil ID: 9928
 	Fil ID: 20876
 	Fil ID: 12544
+	Fil ID: 26120
 Procés: EpicWebHelper (PID: 36368)
 	Fil ID: 23664
 	Fil ID: 24328
@@ -4247,7 +4239,6 @@ Procés: EpicWebHelper (PID: 36368)
 	Fil ID: 13304
 	Fil ID: 5688
 	Fil ID: 30300
-	Fil ID: 2272
 Procés: GameInputSvc (PID: 9172)
 	Fil ID: 30612
 	Fil ID: 13624
@@ -4306,6 +4297,9 @@ Procés: chrome (PID: 29084)
 	Fil ID: 25720
 	Fil ID: 29512
 	Fil ID: 884
+	Fil ID: 14724
+	Fil ID: 29616
+	Fil ID: 26136
 Procés: chrome (PID: 9680)
 	Fil ID: 11780
 	Fil ID: 11248
@@ -4342,43 +4336,6 @@ Procés: svchost (PID: 14624)
 Procés: taskhostw (PID: 25180)
 	Fil ID: 10604
 	Fil ID: 27300
-Procés: chrome (PID: 36752)
-	Fil ID: 25208
-	Fil ID: 27936
-	Fil ID: 26460
-	Fil ID: 14468
-	Fil ID: 21336
-	Fil ID: 28640
-	Fil ID: 14016
-	Fil ID: 4028
-	Fil ID: 18060
-	Fil ID: 21644
-	Fil ID: 23660
-	Fil ID: 33760
-	Fil ID: 31960
-	Fil ID: 11496
-	Fil ID: 37468
-	Fil ID: 19984
-	Fil ID: 19132
-	Fil ID: 23176
-	Fil ID: 33236
-	Fil ID: 28904
-	Fil ID: 30060
-	Fil ID: 3428
-	Fil ID: 17636
-Procés: svchost (PID: 29068)
-	Fil ID: 34928
-	Fil ID: 36772
-	Fil ID: 9288
-	Fil ID: 25416
-Procés: WmiPrvSE (PID: 6348)
-	Fil ID: 9916
-	Fil ID: 19084
-	Fil ID: 32076
-	Fil ID: 20936
-	Fil ID: 16248
-	Fil ID: 31940
-	Fil ID: 32156
 Procés: chrome (PID: 32436)
 	Fil ID: 36300
 	Fil ID: 18916
@@ -4401,969 +4358,728 @@ Procés: chrome (PID: 32436)
 	Fil ID: 16912
 	Fil ID: 25772
 	Fil ID: 37292
-	Fil ID: 15992
 	Fil ID: 22840
-Procés: chrome (PID: 24184)
-	Fil ID: 33520
-	Fil ID: 3984
-	Fil ID: 12672
-	Fil ID: 12476
-	Fil ID: 37876
-	Fil ID: 9332
-	Fil ID: 15232
-	Fil ID: 36700
-	Fil ID: 17080
-	Fil ID: 31556
-	Fil ID: 24552
-	Fil ID: 24920
-	Fil ID: 5324
-Procés: smartscreen (PID: 29248)
-	Fil ID: 37572
-	Fil ID: 34780
-	Fil ID: 14048
-	Fil ID: 30544
-	Fil ID: 14664
-	Fil ID: 22520
-	Fil ID: 37792
-Procés: devenv (PID: 24968)
-	Fil ID: 18560
-	Fil ID: 29576
-	Fil ID: 36388
-	Fil ID: 13960
-	Fil ID: 10212
-	Fil ID: 34120
-	Fil ID: 23768
-	Fil ID: 20796
-	Fil ID: 35824
-	Fil ID: 3772
-	Fil ID: 28540
-	Fil ID: 10068
-	Fil ID: 23456
-	Fil ID: 25360
-	Fil ID: 15092
-	Fil ID: 4824
-	Fil ID: 33528
-	Fil ID: 25640
-	Fil ID: 34784
-	Fil ID: 17304
-	Fil ID: 9228
-	Fil ID: 35768
-	Fil ID: 16056
-	Fil ID: 32432
-	Fil ID: 25388
-	Fil ID: 28120
-	Fil ID: 32364
-	Fil ID: 29460
-	Fil ID: 32148
-	Fil ID: 6288
-	Fil ID: 33532
-	Fil ID: 23192
-	Fil ID: 1440
-	Fil ID: 11680
-	Fil ID: 32508
-	Fil ID: 35900
-	Fil ID: 8096
-	Fil ID: 37736
-	Fil ID: 35844
-	Fil ID: 19712
-	Fil ID: 37460
-	Fil ID: 14076
-	Fil ID: 14212
-	Fil ID: 21800
-	Fil ID: 22020
-	Fil ID: 26332
-	Fil ID: 22380
-	Fil ID: 31692
-	Fil ID: 28436
-	Fil ID: 9484
-	Fil ID: 27740
-	Fil ID: 21188
-	Fil ID: 29288
-	Fil ID: 13916
-	Fil ID: 29076
-	Fil ID: 19908
-	Fil ID: 17664
-	Fil ID: 20948
-	Fil ID: 24800
-	Fil ID: 35672
-	Fil ID: 32720
-	Fil ID: 21388
-	Fil ID: 14712
-	Fil ID: 37344
-	Fil ID: 22684
-	Fil ID: 25020
-	Fil ID: 4804
-	Fil ID: 30292
-	Fil ID: 25724
-	Fil ID: 7500
-	Fil ID: 33116
-	Fil ID: 22368
-	Fil ID: 25892
-	Fil ID: 15700
-	Fil ID: 35152
-	Fil ID: 10784
-	Fil ID: 9064
-	Fil ID: 34508
-	Fil ID: 17144
-	Fil ID: 4988
-	Fil ID: 34308
-	Fil ID: 18028
-	Fil ID: 34384
-	Fil ID: 25200
-	Fil ID: 20272
-	Fil ID: 480
-	Fil ID: 34116
-	Fil ID: 26016
-	Fil ID: 10688
-	Fil ID: 36012
-	Fil ID: 15108
-	Fil ID: 24068
-Procés: PerfWatson2 (PID: 1308)
-	Fil ID: 11508
-	Fil ID: 30336
-	Fil ID: 18708
-	Fil ID: 10900
-	Fil ID: 25904
-	Fil ID: 15344
-	Fil ID: 37472
-	Fil ID: 23908
-	Fil ID: 15720
-	Fil ID: 28836
-	Fil ID: 14540
-	Fil ID: 25688
-	Fil ID: 28972
-	Fil ID: 26336
-	Fil ID: 28332
-Procés: Microsoft.ServiceHub.Controller (PID: 1360)
-	Fil ID: 22396
-	Fil ID: 30220
-	Fil ID: 28608
-	Fil ID: 36632
-	Fil ID: 11724
-	Fil ID: 27112
-	Fil ID: 23656
-	Fil ID: 10468
-	Fil ID: 16760
-	Fil ID: 29236
-	Fil ID: 28384
-	Fil ID: 6216
-	Fil ID: 16284
-	Fil ID: 13516
-	Fil ID: 31272
-	Fil ID: 3188
-	Fil ID: 30416
-Procés: ServiceHub.VSDetouredHost (PID: 29128)
-	Fil ID: 30804
-	Fil ID: 36068
-	Fil ID: 17708
-	Fil ID: 26092
-	Fil ID: 22720
-	Fil ID: 22032
-	Fil ID: 31992
-	Fil ID: 27560
-	Fil ID: 34220
-	Fil ID: 34968
-	Fil ID: 36648
-	Fil ID: 20292
-	Fil ID: 23296
-	Fil ID: 33872
-	Fil ID: 35964
-Procés: ServiceHub.IdentityHost (PID: 13788)
-	Fil ID: 13376
-	Fil ID: 31056
-	Fil ID: 8832
-	Fil ID: 21576
-	Fil ID: 20412
-	Fil ID: 13504
-	Fil ID: 21948
-	Fil ID: 14240
-	Fil ID: 30296
-	Fil ID: 9628
-	Fil ID: 31196
-	Fil ID: 26596
-	Fil ID: 11284
-	Fil ID: 14484
-	Fil ID: 31044
-	Fil ID: 26576
-	Fil ID: 28248
-	Fil ID: 26980
-	Fil ID: 4328
-	Fil ID: 16652
-Procés: ServiceHub.RoslynCodeAnalysisService (PID: 8548)
-	Fil ID: 3348
-	Fil ID: 19152
-	Fil ID: 26360
-	Fil ID: 7708
-	Fil ID: 33008
-	Fil ID: 22324
-	Fil ID: 34672
-	Fil ID: 22540
-	Fil ID: 34136
-	Fil ID: 19280
-	Fil ID: 26056
-	Fil ID: 6248
-	Fil ID: 1424
-	Fil ID: 18612
-	Fil ID: 17824
-	Fil ID: 27444
-	Fil ID: 17288
-	Fil ID: 27360
-	Fil ID: 35980
-	Fil ID: 16516
-	Fil ID: 24164
-	Fil ID: 5052
-	Fil ID: 37216
-	Fil ID: 20288
-	Fil ID: 11744
-	Fil ID: 19640
-	Fil ID: 24240
-	Fil ID: 14128
-	Fil ID: 1756
-	Fil ID: 37548
-	Fil ID: 26388
-	Fil ID: 29536
-	Fil ID: 9740
-	Fil ID: 37232
-Procés: ServiceHub.ThreadedWaitDialog (PID: 7248)
-	Fil ID: 5532
-	Fil ID: 36136
-	Fil ID: 26584
-	Fil ID: 33172
-	Fil ID: 3700
-	Fil ID: 22420
-	Fil ID: 1660
-	Fil ID: 34168
-	Fil ID: 18312
-	Fil ID: 9652
-	Fil ID: 16500
-	Fil ID: 21232
-	Fil ID: 22228
-	Fil ID: 28004
-	Fil ID: 36180
-	Fil ID: 36216
-	Fil ID: 12168
-	Fil ID: 35236
-	Fil ID: 30028
-	Fil ID: 2276
-	Fil ID: 4432
-	Fil ID: 37844
-	Fil ID: 32824
-Procés: SearchProtocolHost (PID: 21568)
-	Fil ID: 27792
-	Fil ID: 28044
-	Fil ID: 30600
-	Fil ID: 2584
-Procés: ServiceHub.IntellicodeModelService (PID: 19996)
-	Fil ID: 11236
-	Fil ID: 31280
-	Fil ID: 24924
-	Fil ID: 13104
-	Fil ID: 32616
-	Fil ID: 15320
-	Fil ID: 21776
-	Fil ID: 12296
-	Fil ID: 36776
-	Fil ID: 36060
-	Fil ID: 34856
-	Fil ID: 24916
-	Fil ID: 33572
-	Fil ID: 25932
-	Fil ID: 1048
-	Fil ID: 32388
-	Fil ID: 33052
-	Fil ID: 32272
-	Fil ID: 12132
-	Fil ID: 520
-	Fil ID: 22128
-	Fil ID: 30960
-	Fil ID: 37760
-	Fil ID: 23688
-	Fil ID: 31852
-Procés: ServiceHub.IndexingService (PID: 34372)
-	Fil ID: 36244
-	Fil ID: 19516
-	Fil ID: 23028
-	Fil ID: 32044
-	Fil ID: 27416
-	Fil ID: 34668
-	Fil ID: 29600
-	Fil ID: 20072
-	Fil ID: 2644
-	Fil ID: 9760
-	Fil ID: 22692
-	Fil ID: 19252
-	Fil ID: 19284
-	Fil ID: 24412
-	Fil ID: 19016
-	Fil ID: 7676
-	Fil ID: 37012
-	Fil ID: 14756
-	Fil ID: 33308
-	Fil ID: 32208
-	Fil ID: 19436
-Procés: ServiceHub.Host.AnyCPU (PID: 16196)
-	Fil ID: 8120
-	Fil ID: 26504
-	Fil ID: 26376
-	Fil ID: 34852
-	Fil ID: 28676
-	Fil ID: 14148
-	Fil ID: 16408
-	Fil ID: 3536
-	Fil ID: 9188
-	Fil ID: 14984
-	Fil ID: 18212
-	Fil ID: 32632
-	Fil ID: 31776
-	Fil ID: 29736
-	Fil ID: 29400
-	Fil ID: 13244
-	Fil ID: 35904
-	Fil ID: 33588
-	Fil ID: 11140
-	Fil ID: 2924
-	Fil ID: 24280
-	Fil ID: 18400
-	Fil ID: 12548
-	Fil ID: 18324
-	Fil ID: 4468
-	Fil ID: 36588
-	Fil ID: 7820
-	Fil ID: 16392
-	Fil ID: 10224
-	Fil ID: 17680
-Procés: ServiceHub.TestWindowStoreHost (PID: 30884)
-	Fil ID: 3840
-	Fil ID: 4612
-	Fil ID: 19488
-	Fil ID: 26740
-	Fil ID: 32500
-	Fil ID: 5516
-	Fil ID: 22448
-	Fil ID: 13008
-	Fil ID: 21160
-	Fil ID: 36324
-	Fil ID: 19644
-	Fil ID: 20192
-	Fil ID: 9236
-Procés: devenv (PID: 37336)
-	Fil ID: 11128
-	Fil ID: 12084
-	Fil ID: 22200
-	Fil ID: 7992
-	Fil ID: 36044
-	Fil ID: 33944
-	Fil ID: 26804
-	Fil ID: 33268
-	Fil ID: 33784
-	Fil ID: 25228
-	Fil ID: 34644
-	Fil ID: 32952
-	Fil ID: 1320
-	Fil ID: 11928
-	Fil ID: 25308
-	Fil ID: 7836
-	Fil ID: 27600
-	Fil ID: 27116
-	Fil ID: 8708
-	Fil ID: 10664
-	Fil ID: 20392
-	Fil ID: 23432
-	Fil ID: 36940
-	Fil ID: 26668
-	Fil ID: 32604
-	Fil ID: 14100
-	Fil ID: 13060
-	Fil ID: 10356
-	Fil ID: 5956
-	Fil ID: 31784
-	Fil ID: 11012
-	Fil ID: 31704
-	Fil ID: 20764
-	Fil ID: 19532
-	Fil ID: 1672
-	Fil ID: 22968
-	Fil ID: 34200
-	Fil ID: 15116
-	Fil ID: 19268
-	Fil ID: 37312
-	Fil ID: 10592
-	Fil ID: 11204
-	Fil ID: 3852
-	Fil ID: 9660
-	Fil ID: 24580
-	Fil ID: 34088
-	Fil ID: 10368
-	Fil ID: 18952
-	Fil ID: 21412
-	Fil ID: 32572
-	Fil ID: 9148
-	Fil ID: 34632
-	Fil ID: 32020
-	Fil ID: 36040
-	Fil ID: 30468
-	Fil ID: 21532
-	Fil ID: 33996
-	Fil ID: 4384
-	Fil ID: 16612
-	Fil ID: 4040
-	Fil ID: 6180
-	Fil ID: 37016
-	Fil ID: 25804
-	Fil ID: 4184
-	Fil ID: 15452
-	Fil ID: 13876
-	Fil ID: 32648
-	Fil ID: 20148
-	Fil ID: 9016
-	Fil ID: 17360
-	Fil ID: 10020
-	Fil ID: 24292
-	Fil ID: 3396
-	Fil ID: 37164
-	Fil ID: 23256
-	Fil ID: 18292
-	Fil ID: 37332
-	Fil ID: 32924
-	Fil ID: 35896
-	Fil ID: 9376
-	Fil ID: 30212
-	Fil ID: 5328
-	Fil ID: 26856
-	Fil ID: 35516
-	Fil ID: 8876
-	Fil ID: 3436
-	Fil ID: 30748
-Procés: PerfWatson2 (PID: 7404)
-	Fil ID: 23860
-	Fil ID: 37464
-	Fil ID: 34016
-	Fil ID: 23988
-	Fil ID: 24876
-	Fil ID: 37700
-	Fil ID: 18412
-	Fil ID: 12108
-	Fil ID: 17000
-	Fil ID: 23156
-	Fil ID: 25484
-	Fil ID: 2612
-	Fil ID: 14396
-	Fil ID: 5460
-	Fil ID: 20036
-	Fil ID: 21648
-	Fil ID: 22940
-	Fil ID: 24872
-	Fil ID: 33856
-	Fil ID: 15528
-Procés: Microsoft.ServiceHub.Controller (PID: 15852)
-	Fil ID: 34680
-	Fil ID: 12912
-	Fil ID: 27960
-	Fil ID: 17484
-	Fil ID: 2156
-	Fil ID: 23020
-	Fil ID: 11944
-	Fil ID: 13780
-	Fil ID: 30772
-	Fil ID: 16532
-	Fil ID: 19504
-	Fil ID: 36976
-	Fil ID: 16244
-	Fil ID: 18496
-Procés: ServiceHub.VSDetouredHost (PID: 28092)
-	Fil ID: 32144
-	Fil ID: 37184
-	Fil ID: 14124
-	Fil ID: 34480
-	Fil ID: 21756
-	Fil ID: 30048
-	Fil ID: 15704
-	Fil ID: 18240
-	Fil ID: 2516
-	Fil ID: 11792
-	Fil ID: 31996
-	Fil ID: 23912
-	Fil ID: 7932
-	Fil ID: 28916
-	Fil ID: 32232
-Procés: ServiceHub.ThreadedWaitDialog (PID: 6404)
-	Fil ID: 8028
-	Fil ID: 20396
-	Fil ID: 20820
-	Fil ID: 19524
-	Fil ID: 14380
-	Fil ID: 12580
-	Fil ID: 33400
-	Fil ID: 16624
-	Fil ID: 23784
-	Fil ID: 7684
-	Fil ID: 9692
-	Fil ID: 4164
-	Fil ID: 33188
-	Fil ID: 37368
-	Fil ID: 22024
-	Fil ID: 14672
-	Fil ID: 15776
-	Fil ID: 12768
-	Fil ID: 26144
-	Fil ID: 11472
-	Fil ID: 10208
-	Fil ID: 21988
-	Fil ID: 1300
-	Fil ID: 34580
-Procés: ServiceHub.RoslynCodeAnalysisService (PID: 36948)
-	Fil ID: 14464
-	Fil ID: 9504
-	Fil ID: 7896
-	Fil ID: 15844
-	Fil ID: 16544
-	Fil ID: 15100
-	Fil ID: 25684
-	Fil ID: 8724
-	Fil ID: 29844
-	Fil ID: 22208
-	Fil ID: 15696
-	Fil ID: 7096
-	Fil ID: 30996
-	Fil ID: 28372
-	Fil ID: 36872
-	Fil ID: 35556
-	Fil ID: 16340
-Procés: ServiceHub.IdentityHost (PID: 25372)
-	Fil ID: 14836
-	Fil ID: 8164
-	Fil ID: 7196
-	Fil ID: 30644
-	Fil ID: 19220
-	Fil ID: 16868
-	Fil ID: 17344
-	Fil ID: 24304
-	Fil ID: 21604
-	Fil ID: 11020
-	Fil ID: 21024
-	Fil ID: 34912
-	Fil ID: 24948
-	Fil ID: 21180
-	Fil ID: 15916
-	Fil ID: 19988
-	Fil ID: 34276
-	Fil ID: 25564
-	Fil ID: 1600
-	Fil ID: 15836
-Procés: ServiceHub.IndexingService (PID: 10976)
-	Fil ID: 18216
-	Fil ID: 26160
-	Fil ID: 18700
-	Fil ID: 292
-	Fil ID: 28216
-	Fil ID: 37600
-	Fil ID: 26520
-	Fil ID: 22908
-	Fil ID: 26764
-	Fil ID: 35452
-	Fil ID: 29160
-	Fil ID: 23880
-	Fil ID: 32248
-	Fil ID: 3676
-	Fil ID: 32112
-	Fil ID: 32556
-Procés: ServiceHub.IntellicodeModelService (PID: 32352)
-	Fil ID: 34572
-	Fil ID: 8580
-	Fil ID: 26528
-	Fil ID: 12248
-	Fil ID: 18196
-	Fil ID: 8080
-	Fil ID: 5760
-	Fil ID: 8584
-	Fil ID: 29528
-	Fil ID: 34700
-	Fil ID: 22356
-Procés: ServiceHub.Host.dotnet.x64 (PID: 18624)
-	Fil ID: 26228
-	Fil ID: 27376
-	Fil ID: 24204
-	Fil ID: 30776
-	Fil ID: 33144
-	Fil ID: 10652
-	Fil ID: 14096
-	Fil ID: 30356
-	Fil ID: 17492
-	Fil ID: 34472
-	Fil ID: 5288
-	Fil ID: 16232
-	Fil ID: 17840
-Procés: ServiceHub.Host.AnyCPU (PID: 16048)
-	Fil ID: 20684
-	Fil ID: 10960
-	Fil ID: 34020
-	Fil ID: 9872
-	Fil ID: 10008
-	Fil ID: 34232
-	Fil ID: 36344
-	Fil ID: 24944
-	Fil ID: 15076
-	Fil ID: 18936
-	Fil ID: 15272
-	Fil ID: 33080
-	Fil ID: 22080
-	Fil ID: 5140
-	Fil ID: 10284
-	Fil ID: 19900
-	Fil ID: 25908
-	Fil ID: 31032
-	Fil ID: 27204
-	Fil ID: 30380
-	Fil ID: 34388
-	Fil ID: 3648
-	Fil ID: 26672
-	Fil ID: 30636
-	Fil ID: 21400
-	Fil ID: 20880
-	Fil ID: 6392
-Procés: ServiceHub.TestWindowStoreHost (PID: 30124)
-	Fil ID: 30440
-	Fil ID: 10052
-	Fil ID: 3832
-	Fil ID: 12264
-	Fil ID: 16864
-	Fil ID: 10272
-	Fil ID: 30312
-	Fil ID: 31972
-	Fil ID: 32640
-	Fil ID: 27184
-	Fil ID: 33464
-	Fil ID: 20808
-	Fil ID: 21848
-Procés: MSBuild (PID: 3896)
-	Fil ID: 21996
-	Fil ID: 12156
-	Fil ID: 28428
-	Fil ID: 33748
-	Fil ID: 14620
-	Fil ID: 33708
-	Fil ID: 24316
-	Fil ID: 34980
-	Fil ID: 33972
-	Fil ID: 34796
-	Fil ID: 36248
-	Fil ID: 28232
-	Fil ID: 17692
-	Fil ID: 13368
-	Fil ID: 33368
-	Fil ID: 15840
-	Fil ID: 24468
-	Fil ID: 31076
-Procés: conhost (PID: 4860)
-	Fil ID: 24212
-	Fil ID: 33252
-	Fil ID: 12300
-	Fil ID: 1328
-Procés: RuntimeBroker (PID: 23120)
-	Fil ID: 22592
-	Fil ID: 14720
-	Fil ID: 9056
-	Fil ID: 32488
-	Fil ID: 28688
-	Fil ID: 22084
-	Fil ID: 30700
-	Fil ID: 27076
-Procés: MSBuild (PID: 28600)
-	Fil ID: 19980
-	Fil ID: 23260
-	Fil ID: 25696
-	Fil ID: 19668
-	Fil ID: 15984
-	Fil ID: 23940
-	Fil ID: 19820
-	Fil ID: 23220
-	Fil ID: 9248
-	Fil ID: 31312
-Procés: conhost (PID: 4100)
-	Fil ID: 26348
-	Fil ID: 6856
-Procés: VBCSCompiler (PID: 9996)
-	Fil ID: 19008
-	Fil ID: 12728
-	Fil ID: 15976
-	Fil ID: 2332
-	Fil ID: 17272
-	Fil ID: 21288
-	Fil ID: 16700
-	Fil ID: 25880
-	Fil ID: 8216
-	Fil ID: 5508
-	Fil ID: 8796
-	Fil ID: 25816
-	Fil ID: 17580
-	Fil ID: 37240
-	Fil ID: 35540
-	Fil ID: 22044
-	Fil ID: 9444
-	Fil ID: 28816
-	Fil ID: 9136
-	Fil ID: 28528
-	Fil ID: 9476
-	Fil ID: 29660
-	Fil ID: 1812
-	Fil ID: 11168
-	Fil ID: 33196
-	Fil ID: 34840
-	Fil ID: 19124
-	Fil ID: 8236
-	Fil ID: 27368
-	Fil ID: 12208
-	Fil ID: 33968
-	Fil ID: 16412
-	Fil ID: 1552
-	Fil ID: 14744
-	Fil ID: 33304
-	Fil ID: 29440
-	Fil ID: 31100
-Procés: conhost (PID: 6472)
-	Fil ID: 37380
-	Fil ID: 32716
-Procés: ServiceHub.DataWarehouseHost (PID: 33576)
-	Fil ID: 12384
-	Fil ID: 12696
-	Fil ID: 34184
-	Fil ID: 18616
-	Fil ID: 20456
-	Fil ID: 612
-	Fil ID: 31352
-	Fil ID: 37428
-	Fil ID: 20540
-	Fil ID: 35560
-	Fil ID: 24976
-	Fil ID: 36352
-	Fil ID: 17660
-	Fil ID: 16356
-	Fil ID: 23252
-	Fil ID: 22112
-	Fil ID: 23108
-Procés: StandardCollector.Service (PID: 7988)
-	Fil ID: 23804
-	Fil ID: 1112
-	Fil ID: 32928
-	Fil ID: 12136
-	Fil ID: 10152
-	Fil ID: 11112
-	Fil ID: 15336
-	Fil ID: 13068
-	Fil ID: 11272
-	Fil ID: 10692
-	Fil ID: 1620
-	Fil ID: 30656
-	Fil ID: 36032
-	Fil ID: 22812
-	Fil ID: 17028
-	Fil ID: 25940
-	Fil ID: 3952
-	Fil ID: 36468
-	Fil ID: 9132
-	Fil ID: 22308
-	Fil ID: 17084
-	Fil ID: 30524
-	Fil ID: 4680
-	Fil ID: 6676
-	Fil ID: 9004
-	Fil ID: 19572
-	Fil ID: 8128
-	Fil ID: 13900
-	Fil ID: 8828
-	Fil ID: 31872
-	Fil ID: 18604
-Procés: WmiPrvSE (PID: 35344)
-	Fil ID: 30652
-	Fil ID: 10972
-	Fil ID: 36684
-	Fil ID: 12336
-	Fil ID: 1140
-	Fil ID: 25116
-Procés: VsDebugConsole (PID: 21456)
-	Fil ID: 21968
-	Fil ID: 12804
-Procés: conhost (PID: 33932)
-	Fil ID: 14348
-	Fil ID: 31536
-	Fil ID: 24008
-	Fil ID: 7116
-	Fil ID: 32080
-	Fil ID: 19168
-	Fil ID: 36844
-	Fil ID: 11464
-Procés: msedgewebview2 (PID: 9820)
-	Fil ID: 36144
-	Fil ID: 32312
-	Fil ID: 18688
-	Fil ID: 31620
-	Fil ID: 14764
-	Fil ID: 32904
-	Fil ID: 28416
-	Fil ID: 15348
-	Fil ID: 12096
-	Fil ID: 15868
-	Fil ID: 26836
-	Fil ID: 37624
-	Fil ID: 10276
-	Fil ID: 9364
-	Fil ID: 4800
-	Fil ID: 19744
-	Fil ID: 17928
-	Fil ID: 25124
-	Fil ID: 25052
-	Fil ID: 25876
-	Fil ID: 34500
-	Fil ID: 33256
-	Fil ID: 31980
-	Fil ID: 33768
-	Fil ID: 31216
-	Fil ID: 13584
-	Fil ID: 7368
-	Fil ID: 22932
-	Fil ID: 25048
-	Fil ID: 28464
-	Fil ID: 12892
-	Fil ID: 34084
-	Fil ID: 16360
-	Fil ID: 19976
-	Fil ID: 14708
-	Fil ID: 28584
-	Fil ID: 18416
-	Fil ID: 14388
-	Fil ID: 21464
-	Fil ID: 10076
-	Fil ID: 21552
-	Fil ID: 13188
-	Fil ID: 36480
-	Fil ID: 17460
-	Fil ID: 4832
-	Fil ID: 37828
-	Fil ID: 16964
-	Fil ID: 20092
-	Fil ID: 13100
-	Fil ID: 9336
-	Fil ID: 23012
-	Fil ID: 7864
-Procés: msedgewebview2 (PID: 2052)
-	Fil ID: 24732
-	Fil ID: 8948
-	Fil ID: 16896
-	Fil ID: 22536
-	Fil ID: 8460
-	Fil ID: 4220
-	Fil ID: 21052
-Procés: msedgewebview2 (PID: 30256)
-	Fil ID: 7204
-	Fil ID: 35020
-	Fil ID: 30512
-	Fil ID: 26052
-	Fil ID: 8052
-	Fil ID: 16768
-	Fil ID: 29252
-	Fil ID: 10708
-	Fil ID: 36372
-	Fil ID: 18096
-	Fil ID: 1816
-	Fil ID: 14072
-	Fil ID: 9736
-	Fil ID: 20968
-	Fil ID: 28012
-	Fil ID: 22248
-	Fil ID: 25788
-	Fil ID: 23428
-	Fil ID: 21860
-	Fil ID: 31300
 	Fil ID: 12852
-	Fil ID: 31764
-	Fil ID: 13120
-	Fil ID: 32244
-	Fil ID: 37228
-	Fil ID: 36336
-	Fil ID: 23324
-	Fil ID: 28320
-	Fil ID: 20624
-	Fil ID: 19888
-	Fil ID: 31636
-	Fil ID: 15632
-	Fil ID: 16020
-	Fil ID: 8800
-	Fil ID: 16176
-	Fil ID: 28704
-	Fil ID: 26136
-	Fil ID: 4756
-	Fil ID: 32480
-	Fil ID: 30528
-	Fil ID: 22056
-Procés: msedgewebview2 (PID: 33964)
-	Fil ID: 1244
-	Fil ID: 30648
-	Fil ID: 8888
-	Fil ID: 37552
-	Fil ID: 3128
-	Fil ID: 14588
-	Fil ID: 36708
-	Fil ID: 37824
-	Fil ID: 1824
-	Fil ID: 36904
-	Fil ID: 2548
-	Fil ID: 15280
-	Fil ID: 15204
-	Fil ID: 11556
-	Fil ID: 37584
-	Fil ID: 8496
-	Fil ID: 7916
-	Fil ID: 23052
-	Fil ID: 29508
-	Fil ID: 36116
-	Fil ID: 25144
-Procés: msedgewebview2 (PID: 20924)
-	Fil ID: 15692
-	Fil ID: 4140
-	Fil ID: 33928
-	Fil ID: 24988
-	Fil ID: 16404
-	Fil ID: 21704
-	Fil ID: 18120
-Procés: msedgewebview2 (PID: 8624)
-	Fil ID: 37448
-	Fil ID: 32708
-	Fil ID: 34880
-	Fil ID: 30492
-	Fil ID: 1520
-	Fil ID: 35968
-	Fil ID: 29732
-	Fil ID: 16468
-	Fil ID: 17232
-	Fil ID: 37772
-	Fil ID: 18072
-	Fil ID: 2844
-	Fil ID: 19476
-	Fil ID: 35288
-	Fil ID: 35532
-	Fil ID: 21184
-	Fil ID: 17952
-	Fil ID: 28788
-	Fil ID: 6656
-	Fil ID: 10884
-	Fil ID: 35508
-	Fil ID: 16920
-Procés: Exercici4 (PID: 33948)
-	Fil ID: 24156
-	Fil ID: 28484
-	Fil ID: 19180
-	Fil ID: 25400
-	Fil ID: 26012
-	Fil ID: 27092
-	Fil ID: 9624
+Procés: chrome (PID: 4468)
+	Fil ID: 36588
+	Fil ID: 18224
 	Fil ID: 4768
-	Fil ID: 33216
-	Fil ID: 26864
-	Fil ID: 37224
-	Fil ID: 37144
-	Fil ID: 24868
-	Fil ID: 36088
+	Fil ID: 27292
+	Fil ID: 7964
+	Fil ID: 34924
+	Fil ID: 36684
+	Fil ID: 31760
+	Fil ID: 13620
+	Fil ID: 13980
+	Fil ID: 12136
+	Fil ID: 21188
+	Fil ID: 32504
+	Fil ID: 37216
+	Fil ID: 28432
+	Fil ID: 25116
+	Fil ID: 32944
+	Fil ID: 15888
+	Fil ID: 37152
+	Fil ID: 37464
+	Fil ID: 29524
+	Fil ID: 23140
+	Fil ID: 3576
+Procés: chrome (PID: 32236)
+	Fil ID: 29420
+	Fil ID: 36400
+	Fil ID: 34792
+	Fil ID: 6364
+	Fil ID: 24188
+	Fil ID: 26576
+	Fil ID: 18900
+	Fil ID: 16544
+	Fil ID: 17216
+	Fil ID: 32020
+	Fil ID: 16864
+	Fil ID: 18272
+	Fil ID: 33308
+	Fil ID: 17884
+	Fil ID: 28820
+	Fil ID: 35316
+	Fil ID: 14712
+	Fil ID: 8888
+	Fil ID: 7500
+	Fil ID: 10224
+	Fil ID: 17672
+	Fil ID: 16828
+Procés: chrome (PID: 14180)
+	Fil ID: 1780
+	Fil ID: 33224
+	Fil ID: 8420
+	Fil ID: 24508
+	Fil ID: 4220
+	Fil ID: 2540
+	Fil ID: 3852
+	Fil ID: 37664
+	Fil ID: 17724
+	Fil ID: 25796
+	Fil ID: 30264
+	Fil ID: 4376
+	Fil ID: 11908
+Procés: svchost (PID: 31300)
+	Fil ID: 33748
+	Fil ID: 37204
+	Fil ID: 18292
+	Fil ID: 37564
+	Fil ID: 8184
+Procés: WmiPrvSE (PID: 30600)
+	Fil ID: 8768
+	Fil ID: 22204
+	Fil ID: 34488
+	Fil ID: 2140
+	Fil ID: 35640
+	Fil ID: 29240
+	Fil ID: 32180
+	Fil ID: 13256
+Procés: SearchProtocolHost (PID: 21648)
+	Fil ID: 25208
+	Fil ID: 17212
+	Fil ID: 36772
+	Fil ID: 5932
+Procés: devenv (PID: 16272)
+	Fil ID: 22520
+	Fil ID: 10980
+	Fil ID: 21424
+	Fil ID: 33372
+	Fil ID: 35800
+	Fil ID: 25932
+	Fil ID: 13928
+	Fil ID: 19132
+	Fil ID: 20684
+	Fil ID: 17220
+	Fil ID: 1300
+	Fil ID: 23736
+	Fil ID: 37196
+	Fil ID: 23276
+	Fil ID: 18912
+	Fil ID: 28012
+	Fil ID: 33860
+	Fil ID: 8580
+	Fil ID: 36708
+	Fil ID: 23452
+	Fil ID: 1824
+	Fil ID: 32996
+	Fil ID: 13708
+	Fil ID: 27876
+	Fil ID: 32312
+	Fil ID: 15300
+	Fil ID: 24888
+	Fil ID: 18928
+	Fil ID: 28856
+	Fil ID: 25412
+	Fil ID: 18216
+	Fil ID: 34484
+	Fil ID: 18284
+	Fil ID: 29608
+	Fil ID: 33044
+	Fil ID: 27820
+	Fil ID: 12440
+	Fil ID: 17412
+	Fil ID: 32824
+	Fil ID: 17500
+	Fil ID: 32928
+	Fil ID: 12132
+	Fil ID: 5552
+	Fil ID: 19992
+	Fil ID: 31764
+	Fil ID: 10720
+	Fil ID: 34180
+	Fil ID: 26964
+	Fil ID: 30636
+	Fil ID: 31268
+	Fil ID: 34704
+	Fil ID: 16056
+	Fil ID: 17668
+	Fil ID: 22340
+	Fil ID: 21996
+	Fil ID: 30308
+	Fil ID: 25940
+	Fil ID: 1988
+	Fil ID: 1928
 	Fil ID: 35740
-	Fil ID: 11388
-Total processos: 281
-Total fils: 5086
+	Fil ID: 36332
+	Fil ID: 24444
+	Fil ID: 18056
+	Fil ID: 14384
+	Fil ID: 34776
+	Fil ID: 11080
+	Fil ID: 13724
+	Fil ID: 14652
+	Fil ID: 29076
+	Fil ID: 29160
+	Fil ID: 30220
+	Fil ID: 26620
+	Fil ID: 33584
+	Fil ID: 33196
+	Fil ID: 28904
+	Fil ID: 31556
+	Fil ID: 37816
+	Fil ID: 16340
+	Fil ID: 10968
+	Fil ID: 28620
+	Fil ID: 4040
+	Fil ID: 23012
+	Fil ID: 35964
+	Fil ID: 33700
+	Fil ID: 37480
+	Fil ID: 25124
+	Fil ID: 18896
+	Fil ID: 30136
+	Fil ID: 20776
+	Fil ID: 12092
+	Fil ID: 12936
+	Fil ID: 27784
+	Fil ID: 37328
+	Fil ID: 26164
+	Fil ID: 33504
+Procés: PerfWatson2 (PID: 8064)
+	Fil ID: 35452
+	Fil ID: 32036
+	Fil ID: 29448
+	Fil ID: 2928
+	Fil ID: 12172
+	Fil ID: 4104
+	Fil ID: 20952
+	Fil ID: 8696
+	Fil ID: 25876
+	Fil ID: 26228
+	Fil ID: 29732
+	Fil ID: 18820
+	Fil ID: 20744
+	Fil ID: 2756
+	Fil ID: 32356
+Procés: Microsoft.ServiceHub.Controller (PID: 12328)
+	Fil ID: 36476
+	Fil ID: 14924
+	Fil ID: 18632
+	Fil ID: 22464
+	Fil ID: 22916
+	Fil ID: 34780
+	Fil ID: 504
+	Fil ID: 9008
+	Fil ID: 34796
+	Fil ID: 9056
+	Fil ID: 22108
+	Fil ID: 23540
+	Fil ID: 26628
+	Fil ID: 23372
+	Fil ID: 27332
+	Fil ID: 9228
+	Fil ID: 28512
+	Fil ID: 20364
+Procés: ServiceHub.VSDetouredHost (PID: 28992)
+	Fil ID: 27992
+	Fil ID: 3400
+	Fil ID: 30036
+	Fil ID: 32344
+	Fil ID: 13272
+	Fil ID: 37468
+	Fil ID: 10340
+	Fil ID: 27492
+	Fil ID: 36604
+	Fil ID: 11288
+	Fil ID: 35676
+	Fil ID: 22688
+	Fil ID: 19136
+	Fil ID: 28064
+	Fil ID: 36592
+Procés: ServiceHub.IdentityHost (PID: 3164)
+	Fil ID: 8728
+	Fil ID: 20036
+	Fil ID: 33768
+	Fil ID: 34844
+	Fil ID: 7928
+	Fil ID: 24788
+	Fil ID: 28456
+	Fil ID: 26232
+	Fil ID: 30772
+	Fil ID: 2484
+	Fil ID: 23132
+	Fil ID: 21664
+	Fil ID: 33368
+	Fil ID: 3604
+	Fil ID: 15488
+	Fil ID: 28784
+	Fil ID: 11996
+	Fil ID: 17004
+	Fil ID: 3568
+	Fil ID: 5140
+Procés: ServiceHub.ThreadedWaitDialog (PID: 29052)
+	Fil ID: 1480
+	Fil ID: 36940
+	Fil ID: 12008
+	Fil ID: 19980
+	Fil ID: 37804
+	Fil ID: 5760
+	Fil ID: 15976
+	Fil ID: 26904
+	Fil ID: 24316
+	Fil ID: 18416
+	Fil ID: 17012
+	Fil ID: 2232
+	Fil ID: 32748
+	Fil ID: 4336
+	Fil ID: 35288
+	Fil ID: 22516
+	Fil ID: 28236
+	Fil ID: 12140
+	Fil ID: 33036
+	Fil ID: 24516
+	Fil ID: 3628
+	Fil ID: 10452
+	Fil ID: 35156
+	Fil ID: 33928
+Procés: ServiceHub.RoslynCodeAnalysisService (PID: 34976)
+	Fil ID: 35264
+	Fil ID: 37548
+	Fil ID: 24820
+	Fil ID: 9124
+	Fil ID: 17280
+	Fil ID: 28276
+	Fil ID: 30948
+	Fil ID: 33060
+	Fil ID: 18488
+	Fil ID: 34544
+	Fil ID: 35796
+	Fil ID: 25724
+	Fil ID: 14976
+	Fil ID: 29976
+	Fil ID: 31896
+	Fil ID: 9764
+	Fil ID: 14840
+	Fil ID: 23992
+	Fil ID: 36416
+	Fil ID: 30456
+	Fil ID: 21848
+	Fil ID: 19168
+	Fil ID: 28756
+	Fil ID: 21780
+	Fil ID: 30712
+	Fil ID: 6264
+Procés: ServiceHub.IntellicodeModelService (PID: 25188)
+	Fil ID: 13156
+	Fil ID: 15848
+	Fil ID: 35584
+	Fil ID: 24960
+	Fil ID: 16952
+	Fil ID: 20400
+	Fil ID: 26348
+	Fil ID: 31032
+	Fil ID: 10552
+	Fil ID: 24760
+	Fil ID: 9152
+	Fil ID: 20588
+	Fil ID: 31648
+	Fil ID: 14164
+	Fil ID: 23156
+	Fil ID: 18468
+	Fil ID: 32232
+	Fil ID: 27716
+	Fil ID: 24824
+	Fil ID: 31280
+	Fil ID: 14396
+	Fil ID: 13160
+	Fil ID: 27936
+Procés: ServiceHub.IndexingService (PID: 21568)
+	Fil ID: 1608
+	Fil ID: 12548
+	Fil ID: 7364
+	Fil ID: 14864
+	Fil ID: 22604
+	Fil ID: 14896
+	Fil ID: 12020
+	Fil ID: 17816
+	Fil ID: 20288
+	Fil ID: 35276
+	Fil ID: 28368
+	Fil ID: 31792
+	Fil ID: 37016
+	Fil ID: 24764
+	Fil ID: 13232
+	Fil ID: 36924
+	Fil ID: 2344
+	Fil ID: 7864
+	Fil ID: 26512
+	Fil ID: 6604
+	Fil ID: 19772
+Procés: ServiceHub.Host.dotnet.x64 (PID: 24440)
+	Fil ID: 16652
+	Fil ID: 20144
+	Fil ID: 35516
+	Fil ID: 29704
+	Fil ID: 10236
+	Fil ID: 33304
+	Fil ID: 2244
+	Fil ID: 35596
+	Fil ID: 11168
+	Fil ID: 33660
+	Fil ID: 4316
+	Fil ID: 8656
+	Fil ID: 24568
+	Fil ID: 11776
+	Fil ID: 17520
+	Fil ID: 20656
+	Fil ID: 17340
+	Fil ID: 28256
+	Fil ID: 25060
+	Fil ID: 35588
+	Fil ID: 4228
+	Fil ID: 24112
+Procés: ServiceHub.Host.AnyCPU (PID: 32192)
+	Fil ID: 25156
+	Fil ID: 29300
+	Fil ID: 12888
+	Fil ID: 28744
+	Fil ID: 36560
+	Fil ID: 21052
+	Fil ID: 2172
+	Fil ID: 21988
+	Fil ID: 21640
+	Fil ID: 30816
+	Fil ID: 21388
+	Fil ID: 14640
+	Fil ID: 14432
+	Fil ID: 31628
+	Fil ID: 33556
+	Fil ID: 4756
+	Fil ID: 21112
+	Fil ID: 21644
+	Fil ID: 36068
+	Fil ID: 34188
+	Fil ID: 6064
+	Fil ID: 9512
+	Fil ID: 27520
+	Fil ID: 6348
+	Fil ID: 1984
+	Fil ID: 35880
+Procés: ServiceHub.TestWindowStoreHost (PID: 36284)
+	Fil ID: 37176
+	Fil ID: 6640
+	Fil ID: 35572
+	Fil ID: 22024
+	Fil ID: 36856
+	Fil ID: 14224
+	Fil ID: 18748
+	Fil ID: 26792
+	Fil ID: 8608
+	Fil ID: 2000
+	Fil ID: 26016
+	Fil ID: 22624
+	Fil ID: 10400
+Procés: RuntimeBroker (PID: 15912)
+	Fil ID: 23592
+	Fil ID: 17948
+	Fil ID: 14524
+	Fil ID: 13916
+	Fil ID: 30000
+	Fil ID: 1796
+	Fil ID: 1600
+	Fil ID: 23340
+Procés: symsrvhost (PID: 12100)
+	Fil ID: 32188
+Procés: conhost (PID: 9192)
+	Fil ID: 10052
+	Fil ID: 24712
+Procés: SearchFilterHost (PID: 1108)
+	Fil ID: 14088
+	Fil ID: 24548
+	Fil ID: 37224
+	Fil ID: 37552
+Procés: MSBuild (PID: 16648)
+	Fil ID: 29980
+	Fil ID: 8172
+	Fil ID: 21580
+	Fil ID: 9336
+	Fil ID: 23820
+	Fil ID: 17296
+	Fil ID: 14404
+	Fil ID: 27232
+	Fil ID: 21476
+	Fil ID: 30408
+	Fil ID: 9736
+	Fil ID: 20000
+	Fil ID: 11024
+	Fil ID: 6212
+	Fil ID: 15204
+	Fil ID: 14284
+	Fil ID: 37088
+	Fil ID: 6284
+	Fil ID: 25448
+	Fil ID: 30076
+	Fil ID: 28652
+Procés: conhost (PID: 37008)
+	Fil ID: 12484
+	Fil ID: 31936
+	Fil ID: 25952
+	Fil ID: 3128
+Procés: VBCSCompiler (PID: 13244)
+	Fil ID: 28252
+	Fil ID: 32792
+	Fil ID: 11476
+	Fil ID: 27836
+	Fil ID: 20900
+	Fil ID: 2876
+	Fil ID: 30656
+	Fil ID: 21368
+	Fil ID: 14756
+	Fil ID: 21056
+	Fil ID: 4680
+	Fil ID: 6428
+	Fil ID: 31768
+	Fil ID: 31420
+	Fil ID: 8152
+	Fil ID: 14708
+	Fil ID: 36844
+	Fil ID: 16928
+	Fil ID: 31216
+	Fil ID: 15156
+	Fil ID: 13748
+	Fil ID: 2216
+	Fil ID: 13112
+	Fil ID: 19268
+	Fil ID: 32484
+	Fil ID: 29844
+	Fil ID: 6248
+	Fil ID: 27544
+	Fil ID: 32672
+	Fil ID: 36688
+	Fil ID: 33452
+	Fil ID: 35808
+	Fil ID: 22308
+	Fil ID: 18324
+	Fil ID: 19644
+	Fil ID: 18108
+	Fil ID: 3944
+	Fil ID: 3676
+	Fil ID: 12248
+	Fil ID: 18300
+Procés: conhost (PID: 29640)
+	Fil ID: 6900
+	Fil ID: 23596
+	Fil ID: 18276
+	Fil ID: 9332
+Procés: ServiceHub.DataWarehouseHost (PID: 14984)
+	Fil ID: 9188
+	Fil ID: 13612
+	Fil ID: 6804
+	Fil ID: 10984
+	Fil ID: 1328
+	Fil ID: 24068
+	Fil ID: 29824
+	Fil ID: 19176
+	Fil ID: 23220
+	Fil ID: 31864
+	Fil ID: 10936
+	Fil ID: 16404
+	Fil ID: 25228
+	Fil ID: 9860
+	Fil ID: 20020
+	Fil ID: 36568
+	Fil ID: 23064
+	Fil ID: 16748
+	Fil ID: 21756
+	Fil ID: 30228
+	Fil ID: 9872
+	Fil ID: 12300
+	Fil ID: 10896
+	Fil ID: 27572
+	Fil ID: 34840
+	Fil ID: 24156
+	Fil ID: 640
+	Fil ID: 29232
+	Fil ID: 30956
+	Fil ID: 35608
+	Fil ID: 5672
+	Fil ID: 16520
+Procés: StandardCollector.Service (PID: 14356)
+	Fil ID: 14380
+	Fil ID: 26072
+	Fil ID: 20796
+	Fil ID: 12604
+	Fil ID: 17156
+	Fil ID: 19008
+	Fil ID: 32908
+	Fil ID: 5052
+	Fil ID: 23624
+	Fil ID: 36164
+	Fil ID: 28656
+	Fil ID: 28952
+	Fil ID: 7920
+	Fil ID: 35016
+	Fil ID: 14068
+Procés: msedgewebview2 (PID: 29436)
+	Fil ID: 33288
+	Fil ID: 32176
+	Fil ID: 19256
+	Fil ID: 2788
+	Fil ID: 29344
+	Fil ID: 35980
+	Fil ID: 25360
+	Fil ID: 13600
+	Fil ID: 37460
+	Fil ID: 19204
+	Fil ID: 15692
+	Fil ID: 19524
+	Fil ID: 31828
+	Fil ID: 36040
+	Fil ID: 7116
+	Fil ID: 30660
+	Fil ID: 4860
+	Fil ID: 21328
+	Fil ID: 34216
+	Fil ID: 11524
+	Fil ID: 22716
+	Fil ID: 33444
+	Fil ID: 37276
+	Fil ID: 14312
+	Fil ID: 7780
+	Fil ID: 12700
+	Fil ID: 20184
+	Fil ID: 24368
+	Fil ID: 7992
+	Fil ID: 10044
+	Fil ID: 29400
+	Fil ID: 29452
+	Fil ID: 36912
+	Fil ID: 19056
+	Fil ID: 22920
+	Fil ID: 20700
+	Fil ID: 21676
+	Fil ID: 23652
+	Fil ID: 36636
+	Fil ID: 30416
+	Fil ID: 8500
+	Fil ID: 34512
+	Fil ID: 22820
+	Fil ID: 30528
+	Fil ID: 15936
+	Fil ID: 37348
+	Fil ID: 26804
+	Fil ID: 6576
+	Fil ID: 23832
+Procés: msedgewebview2 (PID: 36212)
+	Fil ID: 28964
+	Fil ID: 37824
+	Fil ID: 23404
+	Fil ID: 34352
+	Fil ID: 7684
+	Fil ID: 21312
+	Fil ID: 20308
+	Fil ID: 14836
+	Fil ID: 32992
+	Fil ID: 18444
+Procés: msedgewebview2 (PID: 31164)
+	Fil ID: 20212
+	Fil ID: 33572
+	Fil ID: 34096
+	Fil ID: 13932
+	Fil ID: 21100
+	Fil ID: 29936
+	Fil ID: 34828
+	Fil ID: 32680
+	Fil ID: 23116
+	Fil ID: 37248
+	Fil ID: 20664
+	Fil ID: 14556
+	Fil ID: 1220
+	Fil ID: 12808
+	Fil ID: 33464
+	Fil ID: 2468
+	Fil ID: 28660
+	Fil ID: 24832
+	Fil ID: 10924
+	Fil ID: 13820
+	Fil ID: 8400
+	Fil ID: 13792
+	Fil ID: 10540
+	Fil ID: 36192
+	Fil ID: 8708
+	Fil ID: 4812
+	Fil ID: 12820
+	Fil ID: 20984
+	Fil ID: 18028
+	Fil ID: 35440
+	Fil ID: 19576
+	Fil ID: 18808
+	Fil ID: 27580
+	Fil ID: 3436
+	Fil ID: 7632
+	Fil ID: 35168
+	Fil ID: 9420
+	Fil ID: 37700
+	Fil ID: 14780
+Procés: msedgewebview2 (PID: 10208)
+	Fil ID: 4224
+	Fil ID: 6012
+	Fil ID: 29252
+	Fil ID: 7196
+	Fil ID: 37452
+	Fil ID: 23460
+	Fil ID: 28736
+	Fil ID: 21500
+	Fil ID: 16656
+	Fil ID: 30380
+	Fil ID: 31932
+	Fil ID: 7796
+	Fil ID: 34572
+	Fil ID: 22300
+	Fil ID: 31576
+	Fil ID: 19188
+	Fil ID: 3268
+	Fil ID: 18240
+	Fil ID: 25856
+	Fil ID: 10592
+Procés: msedgewebview2 (PID: 29864)
+	Fil ID: 35672
+	Fil ID: 21556
+	Fil ID: 9672
+	Fil ID: 13728
+	Fil ID: 9144
+	Fil ID: 11988
+	Fil ID: 35612
+Procés: msedgewebview2 (PID: 24484)
+	Fil ID: 26756
+	Fil ID: 16672
+	Fil ID: 27628
+	Fil ID: 9132
+	Fil ID: 4144
+	Fil ID: 15844
+	Fil ID: 12084
+	Fil ID: 19476
+	Fil ID: 7896
+	Fil ID: 37304
+	Fil ID: 32972
+	Fil ID: 13692
+	Fil ID: 37368
+Procés: VsDebugConsole (PID: 20620)
+	Fil ID: 7680
+	Fil ID: 28872
+	Fil ID: 35096
+	Fil ID: 31312
+Procés: conhost (PID: 35240)
+	Fil ID: 29684
+	Fil ID: 24380
+	Fil ID: 6800
+	Fil ID: 35304
+	Fil ID: 27604
+	Fil ID: 32460
+Procés: Exercici4 (PID: 14416)
+	Fil ID: 18848
+	Fil ID: 34552
+	Fil ID: 28864
+	Fil ID: 34268
+	Fil ID: 9180
+	Fil ID: 17400
+	Fil ID: 2584
+	Fil ID: 34904
+	Fil ID: 22896
+	Fil ID: 33840
+	Fil ID: 28684
+	Fil ID: 37296
+Total processos: 270
+Total fils: 4813

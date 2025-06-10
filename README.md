@@ -31,7 +31,7 @@
 - Què fa? Plataforma de missatgeria distribuïda per a fluxos d’esdeveniments en temps real amb persistència i rèpliques.
 - Per què distribuït? Escala a milions d’esdeveniments per segon i elimina punt únic de fallada, repartint particions i rèpliques en un clúster.
 
-## 1) (2 punts) Explica de quines formes s’aplica la concurrència en les CPU’s de més d’un nucli actualment. Raona quins són els avantatges d’aplicar cada tipus.
+## 2) (2 punts) Explica de quines formes s’aplica la concurrència en les CPU’s de més d’un nucli actualment. Raona quins són els avantatges d’aplicar cada tipus.
 
 La concurrència és la capacitat d’un sistema per gestionar múltiples tasques aparentment alhora. No significa necessàriament que s’estiguin executant exactament al mateix temps (això seria paral·lelisme), sinó que el sistema és capaç de canviar ràpidament entre tasques per donar la sensació que totes avancen alhora.
 
@@ -49,4 +49,40 @@ Els processos es poden executar de tres formes diferents:
 
 
 -  Programació distribuïda: diferents ordinadors en xarxa amb la seva pròpia memòria i processadors. Gestió d'ordinadors en paral·lel. Al no compartir memòria requereixen un alt rendiment de comunicació en xarxa.
+- 
+## 3)  (4 punts) Pel que fa a programació paral·lela i programació asíncrona:
+### a) Enumera i explica les diferències entre elles:
+
+- Bloqueig vs no-bloqueig:
+   • Paral·lel: sovint assigna cada tasca a un fil o nucli (pot bloquejar-se).
+   • Asíncron: no crea fil addicional per esperar; l’operació de llarga durada no bloqueja el remetent.
+- Mecanisme :
+  • Paral·lel: Thread, Task.Run, divides and conquer. 
+  • Asíncron: async/await, callbacks, promises, event-loop.
+- Escalabilitat :
+  • Paral·lel: limitat per nuclis físics i cost de context-switch. 
+  • Asíncron: excel·lent per I/O massiu (milers de connexions simultànies).
+- Ús de recursos 
+  • Paral·lel: més memòria i CPU per cada fil.
+  • Asíncron: reusa el mateix fil per a moltes operacions I/O.
+
+### b) Explica cada pas del cicle de vida d’aquest mètode asíncron:
+1) Al cridar GetUrlContentLengthAsync(), es crea l’HttpClient i s’inicia immediatament la tasca GetStringAsync, que retorna un Task<string> sense bloquejar el fil actual. El mètode continua executant el codi síncron fins a trobar l’await.
+2) Es crida DoIndependentWork(), que imprimeix “Working ...” i acaba ràpidament. Tot aquest treball s’executa en el mateix fil, abans que el mètode es suspengui.
+3) Quan arriba a await getStringTask, el mètode es suspèn, retorna al seu cridant un Task<int> incomplet i allibera el fil per a altres feines.
+4) El mètode es reemprèn on va quedar atura quan completa la descàrrega del http: recupera contents i calcula contents.Length. Aquesta reanudació pot ocórrer en un fil del pool o en el context original, segons el seu SynchronizationContext.
+5) El valor de la longitud del contingut  es retornat com a resultat final del Task<int>. El codi que va fer l’await rep aquest resultat i continua la seva execució.
+
+### c) De la següent llista d’aplicacions digues quines faries servir únicament programació paral·lela i quina programació asíncrona. Raona la teva resposta:
+
+- Processament de lots d’imatges: aplicació que ha de processar una quantitat X d’imatges el més eficientment possible:
+  Paral·lel, per millorar el rendiment utilitzant la maxima capacitat de la cpu en diferents nuclis.
+- Aplicació d’escriptori per a usuaris: aplicació amb una UI que ha de ser fluida.
+  Asíncron, evitem bloquejar el fil de la UI quan llegim fitxers, xarxa mantenint la interfície reactiva.
+- Aplicació de missatgeria en temps real.
+  Asíncron, moltes connexions i petits missatges: millor model no-bloquejant per escalar a milers d’usuaris.
+- Renderització de gràfics en 3d: es renderitza blocs petits de la imatge i s’ajunten en una sola.
+  Paral·lel, l’operació és intensiva en càlcul; assignar blocs de píxels a diversos nuclis (o GPU) redueix temps de render.
+
+
 

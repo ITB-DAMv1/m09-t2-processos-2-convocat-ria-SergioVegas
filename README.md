@@ -89,5 +89,86 @@ Els processos es poden executar de tres formes diferents:
   
   Paral·lel, l’operació és intensiva en càlcul; assignar blocs de píxels a diversos nuclis (o GPU) redueix temps de render.
 
+## 7)  (4 punts) Analitza el següent codi, explica que pretén fer i determina si té errors o punts de millora per un ús correcte dels Threads. 
+### a) Enumera i explica els erros i les millores trobades
+
+1. Stopwatch iniciat en cada bucle, ha de iniciarse abans del for. Tampoc es para en cap moment.
+2. No s’usa Thread.Join, el Main finalitza abans que els fils acabin.
+3. GlobalMax/GlobalMin no són segurs (condicions de cursa). Falta sincronització (lock).
+4. Mesura de temps incorrecta: sW.Restart() reinicia el temps ha de fer sW.Elapsed.
+5. Validació d’entrada: pot fallar si l’usuari introdueix text no numèric.
+6. Falta la llibreria System.Diagnostics.
+
+### b) Reescriu el codi de forma correcte
+
+using System;
+using System.Threading;
+using System.Diagnostics;
+
+namespace SensorRace
+{
+    class Program
+    {
+        private static int[] Readings;
+        private static int GlobalMax = int.MinValue;
+        private static int GlobalMin = int.MaxValue;
+        private static readonly object LockObject = new object();
+
+        static void Main(string[] args)
+        {
+            int sensors;
+            Console.Write("Introdueix el nombre de sensors: ");
+            while (!int.TryParse(Console.ReadLine(), out sensors) || sensors <= 0)
+            {
+                Console.WriteLine("Entrada invàlida. Si us plau, introdueix un nombre enter positiu.");
+                Console.Write("Introdueix el nombre de sensors: ");
+            }
+
+            Readings = new int[sensors];
+            Thread[] threads = new Thread[sensors];
+
+            // Iniciem el cronòmetre abans de crear els fils
+            var stopwatch = Stopwatch.StartNew();
+
+            for (int i = 0; i < sensors; i++)
+            {
+                int id = i;
+                threads[i] = new Thread(() =>
+                {
+                    // Cada fil utilitza el seu Random per evitar condicions de cursa
+                    var localRng = new Random(Guid.NewGuid().GetHashCode());
+                    for (int j = 0; j < 100000; j++)
+                    {
+                        int value = localRng.Next(-20, 51);
+                        Readings[id] = value;
+
+                        lock (LockObject)
+                        {
+                            if (value > GlobalMax) GlobalMax = value;
+                            if (value < GlobalMin) GlobalMin = value;
+                        }
+                    }
+                });
+
+                threads[i].Start();
+            }
+
+            // Esperem que tots els fils acabin abans de continuar
+            foreach (var thread in threads)
+                thread.Join();
+
+            stopwatch.Stop();
+
+            Console.WriteLine($"Final – Max: {GlobalMax}, Min: {GlobalMin}");
+            Console.WriteLine($"Temps total de procés: {stopwatch.Elapsed}");
+        }
+    }
+}
+
+
+
+
+
+
 
 

@@ -31,4 +31,22 @@
 - Què fa? Plataforma de missatgeria distribuïda per a fluxos d’esdeveniments en temps real amb persistència i rèpliques.
 - Per què distribuït? Escala a milions d’esdeveniments per segon i elimina punt únic de fallada, repartint particions i rèpliques en un clúster.
 
+## 1) (2 punts) Explica de quines formes s’aplica la concurrència en les CPU’s de més d’un nucli actualment. Raona quins són els avantatges d’aplicar cada tipus.
+
+La concurrència és la capacitat d’un sistema per gestionar múltiples tasques aparentment alhora. No significa necessàriament que s’estiguin executant exactament al mateix temps (això seria paral·lelisme), sinó que el sistema és capaç de canviar ràpidament entre tasques per donar la sensació que totes avancen alhora.
+
+En els processadors antics, només hi havia un component encarregat d’executar les instruccions que es deia CPU. Actualment, es parla de nuclis (cores). 
+Quantes més CPUs disposem, més processos alhora podrem executar.
+
+Avui dia, la majoria de sistemes operatius aprofiten els intervals d’inactivitat dels processos —quan, per exemple, esperen una entrada de l’usuari o la finalització d’una operació d’E/S— per carregar un altre procés al processador. D’aquesta manera s’aconsegueix una aparent execució paral·lela
+
+Els processos es poden executar de tres formes diferents:
+
+ - Multiprogramació: Un sol processador, per tant, un sol procés en execució en moment concret del temps. Durant l'execució s'alterna amb altres tasques del mateix o altres programes. Usuari experimenta que tots els programes s'executen al mateix temps.
+
+
+-  Programació paral·lela: El processador té diferents nuclis. Cada nucli executa un procés diferent al mateix temps. El SO planifica i gestiona els treballs a executar per cada nucli. Tots els processos comparteixen la mateixa memòria.
+
+
+-  Programació distribuïda: diferents ordinadors en xarxa amb la seva pròpia memòria i processadors. Gestió d'ordinadors en paral·lel. Al no compartir memòria requereixen un alt rendiment de comunicació en xarxa.
 

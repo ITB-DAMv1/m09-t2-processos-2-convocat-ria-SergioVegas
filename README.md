@@ -49,7 +49,7 @@ Els processos es poden executar de tres formes diferents:
 
 
 -  Programació distribuïda: diferents ordinadors en xarxa amb la seva pròpia memòria i processadors. Gestió d'ordinadors en paral·lel. Al no compartir memòria requereixen un alt rendiment de comunicació en xarxa.
-- 
+
 ## 3)  (4 punts) Pel que fa a programació paral·lela i programació asíncrona:
 ### a) Enumera i explica les diferències entre elles:
 
@@ -67,6 +67,7 @@ Els processos es poden executar de tres formes diferents:
   • Asíncron: reusa el mateix fil per a moltes operacions I/O.
 
 ### b) Explica cada pas del cicle de vida d’aquest mètode asíncron:
+
 1) Al cridar GetUrlContentLengthAsync(), es crea l’HttpClient i s’inicia immediatament la tasca GetStringAsync, que retorna un Task<string> sense bloquejar el fil actual. El mètode continua executant el codi síncron fins a trobar l’await.
 2) Es crida DoIndependentWork(), que imprimeix “Working ...” i acaba ràpidament. Tot aquest treball s’executa en el mateix fil, abans que el mètode es suspengui.
 3) Quan arriba a await getStringTask, el mètode es suspèn, retorna al seu cridant un Task<int> incomplet i allibera el fil per a altres feines.
@@ -76,12 +77,16 @@ Els processos es poden executar de tres formes diferents:
 ### c) De la següent llista d’aplicacions digues quines faries servir únicament programació paral·lela i quina programació asíncrona. Raona la teva resposta:
 
 - Processament de lots d’imatges: aplicació que ha de processar una quantitat X d’imatges el més eficientment possible:
+  
   Paral·lel, per millorar el rendiment utilitzant la maxima capacitat de la cpu en diferents nuclis.
 - Aplicació d’escriptori per a usuaris: aplicació amb una UI que ha de ser fluida.
+  
   Asíncron, evitem bloquejar el fil de la UI quan llegim fitxers, xarxa mantenint la interfície reactiva.
 - Aplicació de missatgeria en temps real.
+  
   Asíncron, moltes connexions i petits missatges: millor model no-bloquejant per escalar a milers d’usuaris.
 - Renderització de gràfics en 3d: es renderitza blocs petits de la imatge i s’ajunten en una sola.
+  
   Paral·lel, l’operació és intensiva en càlcul; assignar blocs de píxels a diversos nuclis (o GPU) redueix temps de render.
 
 
